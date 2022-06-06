@@ -1,16 +1,9 @@
 import pandas as pd
-import numpy as np
 
-
-data = {
-        "UNO": [420,500,800,150],
-        "DOS": [1,2,3,6],
+datos = {
+    'Nombre' : [1,2,2,3,5,5,5,5,6]
 }
 
-df = pd.DataFrame(data)
+df = pd.DataFrame(datos)
 
-
-df['Status'] = np.where(df['UNO']>=200,'bien','mal')
-
-print(df)
-
+print(df.apply(lambda x : x['Nombre'] == 1 , axis=1))

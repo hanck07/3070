@@ -1,6 +1,0 @@
-C8511:
-    Pin:1, Signal:24V_AUX_0, Orig_Signal:24V_AUX_0, Probed
-    Pin:2, Signal:GND_AUX_0, Orig_Signal:GND_AUX_0, Probed
-C8522:
-    Pin:1, Signal:24V_AUX_1, Orig_Signal:24V_AUX_1, Probed
-    Pin:2, Signal:GND_AUX_0, Orig_Signal:GND_AUX_0, Probed

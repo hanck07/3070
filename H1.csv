@@ -1,0 +1,863 @@
+ID,PIN,Signal,Signal.1,Probe,INICIAL,TYPE,PORCENT,Barrel
+C101:,    Pin:1, Signal:5V, Orig_Signal:5V, Probed,C,CAP,0,0
+C101:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,C,CAP,0,0
+C102:,    Pin:1, Signal:N12V_A, Orig_Signal:-12V_A, Probed,C,CAP,0,0
+C102:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,C,CAP,0,0
+C201:,    Pin:1, Signal:NetC201_1, Orig_Signal:NetC201_1, Probed,C,CAP,0,0
+C201:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,C,CAP,0,0
+C202:,    Pin:1, Signal:GND, Orig_Signal:GND, Probed,C,CAP,0,0
+C202:,    Pin:2, Signal:CP, Orig_Signal:CP, Probed,C,CAP,0,0
+C203:,    Pin:2, Signal:3_3V, Orig_Signal:3.3V, Probed,C,CAP,0,0
+C203:,    Pin:1, Signal:GND, Orig_Signal:GND, Probed,C,CAP,0,0
+C301:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,C,CAP,0,0
+C301:,    Pin:1, Signal:NetC301_1, Orig_Signal:NetC301_1, NotProbed,C,CAP,0,0
+C302:,    Pin:2, Signal:NetC301_1, Orig_Signal:NetC301_1, NotProbed,C,CAP,0,0
+C302:,    Pin:1, Signal:GND, Orig_Signal:GND, Probed,C,CAP,0,0
+C303:,    Pin:2, Signal:NetC303_2, Orig_Signal:NetC303_2, NotProbed,C,CAP,0,0
+C303:,    Pin:1, Signal:GND, Orig_Signal:GND, Probed,C,CAP,0,0
+C304:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,C,CAP,0,0
+C304:,    Pin:1, Signal:NetC303_2, Orig_Signal:NetC303_2, NotProbed,C,CAP,0,0
+C305:,    Pin:1, Signal:3_3V, Orig_Signal:3.3V, Probed,C,CAP,0,0
+C305:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,C,CAP,0,0
+C306:,    Pin:1, Signal:3_3V, Orig_Signal:3.3V, Probed,C,CAP,0,0
+C306:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,C,CAP,0,0
+C307:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,C,CAP,0,0
+C307:,    Pin:1, Signal:NetC307_1, Orig_Signal:NetC307_1, NotProbed,C,CAP,0,0
+C308:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,C,CAP,0,0
+C308:,    Pin:1, Signal:NRST, Orig_Signal:NRST, Probed,C,CAP,0,0
+C309:,    Pin:1, Signal:NetC309_1, Orig_Signal:NetC309_1, NotProbed,C,CAP,0,0
+C309:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,C,CAP,0,0
+C310:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,C,CAP,0,0
+C310:,    Pin:1, Signal:NetC310_1, Orig_Signal:NetC310_1, NotProbed,C,CAP,0,0
+C311:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,C,CAP,0,0
+C311:,    Pin:1, Signal:NetC311_1, Orig_Signal:NetC311_1, NotProbed,C,CAP,0,0
+C312:,    Pin:1, Signal:NetC301_1, Orig_Signal:NetC301_1, NotProbed,C,CAP,0,0
+C312:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,C,CAP,0,0
+C313:,    Pin:1, Signal:NetC303_2, Orig_Signal:NetC303_2, NotProbed,C,CAP,0,0
+C313:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,C,CAP,0,0
+C314:,    Pin:1, Signal:GND, Orig_Signal:GND, Probed,C,CAP,0,0
+C314:,    Pin:2, Signal:3_3V, Orig_Signal:3.3V, Probed,C,CAP,0,0
+C315:,    Pin:1, Signal:GND, Orig_Signal:GND, Probed,C,CAP,0,0
+C315:,    Pin:2, Signal:3_3V, Orig_Signal:3.3V, Probed,C,CAP,0,0
+C316:,    Pin:1, Signal:GND, Orig_Signal:GND, Probed,C,CAP,0,0
+C316:,    Pin:2, Signal:HALO_BYPASS, Orig_Signal:HALO_BYPASS, Probed,C,CAP,0,0
+C317:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,C,CAP,0,0
+C317:,    Pin:1, Signal:NetC309_1, Orig_Signal:NetC309_1, NotProbed,C,CAP,0,0
+C401:,    Pin:1, Signal:NetC401_1, Orig_Signal:NetC401_1, NotProbed,C,CAP,0,0
+C401:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,C,CAP,0,0
+C402:,    Pin:1, Signal:NetC401_1, Orig_Signal:NetC401_1, NotProbed,C,CAP,0,0
+C402:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,C,CAP,0,0
+C403:,    Pin:2, Signal:NetC403_2, Orig_Signal:NetC403_2, NotProbed,C,CAP,0,0
+C403:,    Pin:1, Signal:NetC403_1, Orig_Signal:NetC403_1, NotProbed,C,CAP,0,0
+C404:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,C,CAP,0,0
+C404:,    Pin:1, Signal:NetC404_1, Orig_Signal:NetC404_1, NotProbed,C,CAP,0,0
+C405:,    Pin:1, Signal:NetC404_1, Orig_Signal:NetC404_1, NotProbed,C,CAP,0,0
+C405:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,C,CAP,0,0
+C501:,    Pin:2, Signal:NetC501_2, Orig_Signal:NetC501_2, NotProbed,C,CAP,0,0
+C501:,    Pin:1, Signal:GND, Orig_Signal:GND, Probed,C,CAP,0,0
+C502:,    Pin:2, Signal:NetC502_2, Orig_Signal:NetC502_2, NotProbed,C,CAP,0,0
+C502:,    Pin:1, Signal:NetC502_1, Orig_Signal:NetC502_1, NotProbed,C,CAP,0,0
+C503:,    Pin:2, Signal:NetC503_2, Orig_Signal:NetC503_2, NotProbed,C,CAP,0,0
+C503:,    Pin:1, Signal:NetC503_1, Orig_Signal:NetC503_1, NotProbed,C,CAP,0,0
+C504:,    Pin:1, Signal:GND, Orig_Signal:GND, Probed,C,CAP,0,0
+C504:,    Pin:2, Signal:NetC504_2, Orig_Signal:NetC504_2, NotProbed,C,CAP,0,0
+C505:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,C,CAP,0,0
+C505:,    Pin:1, Signal:5V, Orig_Signal:5V, Probed,C,CAP,0,0
+C506:,    Pin:2, Signal:NetC506_2, Orig_Signal:NetC506_2, NotProbed,C,CAP,0,0
+C506:,    Pin:1, Signal:GND, Orig_Signal:GND, Probed,C,CAP,0,0
+C507:,    Pin:2, Signal:NetC506_2, Orig_Signal:NetC506_2, NotProbed,C,CAP,0,0
+C507:,    Pin:1, Signal:GND, Orig_Signal:GND, Probed,C,CAP,0,0
+C508:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,C,CAP,0,0
+C508:,    Pin:1, Signal:5V, Orig_Signal:5V, Probed,C,CAP,0,0
+C509:,    Pin:1, Signal:ID1, Orig_Signal:ID1, Probed,C,CAP,0,0
+C509:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,C,CAP,0,0
+C510:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,C,CAP,0,0
+C510:,    Pin:1, Signal:ID2, Orig_Signal:ID2, Probed,C,CAP,0,0
+C511:,    Pin:1, Signal:NetC511_1, Orig_Signal:NetC511_1, NotProbed,C,CAP,0,0
+C511:,    Pin:2, Signal:NetC511_2, Orig_Signal:NetC511_2, NotProbed,C,CAP,0,0
+C512:,    Pin:2, Signal:NetC511_2, Orig_Signal:NetC511_2, NotProbed,C,CAP,0,0
+C512:,    Pin:1, Signal:NetC512_1, Orig_Signal:NetC512_1, NotProbed,C,CAP,0,0
+C513:,    Pin:2, Signal:NetC511_1, Orig_Signal:NetC511_1, NotProbed,C,CAP,0,0
+C513:,    Pin:1, Signal:GND, Orig_Signal:GND, Probed,C,CAP,0,0
+C514:,    Pin:2, Signal:NetC512_1, Orig_Signal:NetC512_1, NotProbed,C,CAP,0,0
+C514:,    Pin:1, Signal:GND, Orig_Signal:GND, Probed,C,CAP,0,0
+C515:,    Pin:1, Signal:GND, Orig_Signal:GND, Probed,C,CAP,0,0
+C515:,    Pin:2, Signal:NetC515_2, Orig_Signal:NetC515_2, NotProbed,C,CAP,0,0
+C516:,    Pin:2, Signal:5V, Orig_Signal:5V, Probed,C,CAP,0,0
+C516:,    Pin:1, Signal:GND, Orig_Signal:GND, Probed,C,CAP,0,0
+C517:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,C,CAP,0,0
+C517:,    Pin:1, Signal:3_3V, Orig_Signal:3.3V, Probed,C,CAP,0,0
+C518:,    Pin:1, Signal:NetC518_1, Orig_Signal:NetC518_1, NotProbed,C,CAP,0,0
+C518:,    Pin:2, Signal:NetC518_2, Orig_Signal:NetC518_2, NotProbed,C,CAP,0,0
+C519:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,C,CAP,0,0
+C519:,    Pin:1, Signal:3_3V, Orig_Signal:3.3V, Probed,C,CAP,0,0
+C520:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,C,CAP,0,0
+C520:,    Pin:1, Signal:NetC520_1, Orig_Signal:NetC520_1, Probed,C,CAP,0,0
+C521:,    Pin:2, Signal:L1_CS, Orig_Signal:L1_CS, Probed,C,CAP,0,0
+C521:,    Pin:1, Signal:GND, Orig_Signal:GND, Probed,C,CAP,0,0
+C601:,    Pin:2, Signal:NetC601_2, Orig_Signal:NetC601_2, Probed,C,CAP,0,0
+C601:,    Pin:1, Signal:GND, Orig_Signal:GND, Probed,C,CAP,0,0
+C602:,    Pin:2, Signal:NetC602_2, Orig_Signal:NetC602_2, Probed,C,CAP,0,0
+C602:,    Pin:1, Signal:NetC602_1, Orig_Signal:NetC602_1, Probed,C,CAP,0,0
+C603:,    Pin:1, Signal:NetC603_1, Orig_Signal:NetC603_1, Probed,C,CAP,0,0
+C603:,    Pin:2, Signal:NetC603_2, Orig_Signal:NetC603_2, NotProbed,C,CAP,0,0
+C604:,    Pin:1, Signal:NetC603_1, Orig_Signal:NetC603_1, Probed,C,CAP,0,0
+C604:,    Pin:2, Signal:NetC603_2, Orig_Signal:NetC603_2, NotProbed,C,CAP,0,0
+C605:,    Pin:1, Signal:GND, Orig_Signal:GND, Probed,C,CAP,0,0
+C605:,    Pin:2, Signal:P12V, Orig_Signal:+12V, Probed,C,CAP,0,0
+C606:,    Pin:1, Signal:P12V, Orig_Signal:+12V, Probed,C,CAP,0,0
+C606:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,C,CAP,0,0
+C607:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,C,CAP,0,0
+C607:,    Pin:1, Signal:P12V, Orig_Signal:+12V, Probed,C,CAP,0,0
+C608:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,C,CAP,0,0
+C608:,    Pin:1, Signal:NetC608_1, Orig_Signal:NetC608_1, Probed,C,CAP,0,0
+C609:,    Pin:1, Signal:12V_A, Orig_Signal:12V_A, NotProbed,C,CAP,0,0
+C609:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,C,CAP,0,0
+C610:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,C,CAP,0,0
+C610:,    Pin:1, Signal:12V_A, Orig_Signal:12V_A, NotProbed,C,CAP,0,0
+C611:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,C,CAP,0,0
+C611:,    Pin:1, Signal:12V_A, Orig_Signal:12V_A, NotProbed,C,CAP,0,0
+C612:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,C,CAP,0,0
+C612:,    Pin:1, Signal:12V_A, Orig_Signal:12V_A, NotProbed,C,CAP,0,0
+C613:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,C,CAP,0,0
+C613:,    Pin:1, Signal:5V, Orig_Signal:5V, Probed,C,CAP,0,0
+C614:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,C,CAP,0,0
+C614:,    Pin:1, Signal:12V_A, Orig_Signal:12V_A, NotProbed,C,CAP,0,0
+C615:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,C,CAP,0,0
+C615:,    Pin:1, Signal:N12V_A, Orig_Signal:-12V_A, Probed,C,CAP,0,0
+C616:,    Pin:1, Signal:N12V_A, Orig_Signal:-12V_A, Probed,C,CAP,0,0
+C616:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,C,CAP,0,0
+C617:,    Pin:2, Signal:1_8V, Orig_Signal:1.8V, Probed,C,CAP,0,0
+C617:,    Pin:1, Signal:GND, Orig_Signal:GND, Probed,C,CAP,0,0
+C618:,    Pin:1, Signal:N12V_A, Orig_Signal:-12V_A, Probed,C,CAP,0,0
+C618:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,C,CAP,0,0
+C619:,    Pin:1, Signal:N12V_A, Orig_Signal:-12V_A, Probed,C,CAP,0,0
+C619:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,C,CAP,0,0
+C620:,    Pin:1, Signal:N12V_A, Orig_Signal:-12V_A, Probed,C,CAP,0,0
+C620:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,C,CAP,0,0
+D201:,    Pin:2, Signal:NetD201_K, Orig_Signal:NetD201_K, NotProbed,D,DIODE,0,0
+D201:,    Pin:1, Signal:CP, Orig_Signal:CP, Probed,D,DIODE,0,0
+D202:,    Pin:2, Signal:NetD201_K, Orig_Signal:NetD201_K, NotProbed,D,DIODE,0,0
+D202:,    Pin:1, Signal:GND, Orig_Signal:GND, Probed,D,DIODE,0,0
+D203:,    Pin:2, Signal:NetD203_CAT, Orig_Signal:NetD203_CAT, NotProbed,D,DIODE,0,0
+D203:,    Pin:1, Signal:NetD203_AN, Orig_Signal:NetD203_AN, NotProbed,D,DIODE,0,0
+D204:,    Pin:2, Signal:3_3V, Orig_Signal:3.3V, Probed,D,DIODE,0,0
+D204:,    Pin:1, Signal:GND, Orig_Signal:GND, Probed,D,DIODE,0,0
+D204:,    Pin:3, Signal:NetD204_3, Orig_Signal:NetD204_3, NotProbed,D,DIODE,0,0
+D401:,    Pin:1, Signal:NetC404_1, Orig_Signal:NetC404_1, NotProbed,D,DIODE,0,0
+D401:,    Pin:2, Signal:NetD401_CAT, Orig_Signal:NetD401_CAT, NotProbed,D,DIODE,0,0
+D402:,    Pin:2, Signal:NetC403_2, Orig_Signal:NetC403_2, NotProbed,D,DIODE,0,0
+D402:,    Pin:1, Signal:NetD401_CAT, Orig_Signal:NetD401_CAT, NotProbed,D,DIODE,0,0
+D410:,    Pin:1, Signal:NetC403_2, Orig_Signal:NetC403_2, NotProbed,D,DIODE,0,0
+D410:,    Pin:2, Signal:NetD410_K, Orig_Signal:NetD410_K, NotProbed,D,DIODE,0,0
+D411:,    Pin:2, Signal:NetD410_K, Orig_Signal:NetD410_K, NotProbed,D,DIODE,0,0
+D411:,    Pin:1, Signal:NetC403_1, Orig_Signal:NetC403_1, NotProbed,D,DIODE,0,0
+D501:,    Pin:2, Signal:12V_A, Orig_Signal:12V_A, NotProbed,D,DIODE,0,0
+D501:,    Pin:3, Signal:NetC501_2, Orig_Signal:NetC501_2, NotProbed,D,DIODE,0,0
+D501:,    Pin:1, Signal:N12V_A, Orig_Signal:-12V_A, Probed,D,DIODE,0,0
+D502:,    Pin:3, Signal:NetC504_2, Orig_Signal:NetC504_2, NotProbed,D,DIODE,0,0
+D502:,    Pin:1, Signal:N12V_A, Orig_Signal:-12V_A, Probed,D,DIODE,0,0
+D502:,    Pin:2, Signal:12V_A, Orig_Signal:12V_A, NotProbed,D,DIODE,0,0
+D503:,    Pin:2, Signal:P12V, Orig_Signal:+12V, Probed,D,DIODE,0,0
+D503:,    Pin:1, Signal:NetD503_AN, Orig_Signal:NetD503_AN, NotProbed,D,DIODE,0,0
+D504:,    Pin:2, Signal:NetD504_K, Orig_Signal:NetD504_K, NotProbed,D,DIODE,0,0
+D504:,    Pin:1, Signal:L1_1, Orig_Signal:L1-1, Probed,D,DIODE,0,0
+D505:,    Pin:3, Signal:NetC506_2, Orig_Signal:NetC506_2, NotProbed,D,DIODE,0,0
+D505:,    Pin:2, Signal:NetD503_AN, Orig_Signal:NetD503_AN, NotProbed,D,DIODE,0,0
+D505:,    Pin:1, Signal:GND, Orig_Signal:GND, Probed,D,DIODE,0,0
+D506:,    Pin:1, Signal:L2_N_1, Orig_Signal:L2/N-1, Probed,D,DIODE,0,0
+D506:,    Pin:2, Signal:NetD506_K, Orig_Signal:NetD506_K, NotProbed,D,DIODE,0,0
+D507:,    Pin:1, Signal:GND, Orig_Signal:GND, Probed,D,DIODE,0,0
+D507:,    Pin:3, Signal:UNCONNECTED_79, Orig_Signal:UNCONNECTED_79, NotProbed,D,DIODE,0,0
+D507:,    Pin:2, Signal:NetD507_K, Orig_Signal:NetD507_K, NotProbed,D,DIODE,0,0
+D508:,    Pin:1, Signal:L1_2, Orig_Signal:L1-2, Probed,D,DIODE,0,0
+D508:,    Pin:2, Signal:NetD508_K, Orig_Signal:NetD508_K, NotProbed,D,DIODE,0,0
+D509:,    Pin:1, Signal:NetD509_1, Orig_Signal:NetD509_1, NotProbed,D,DIODE,0,0
+D509:,    Pin:2, Signal:P12V, Orig_Signal:+12V, Probed,D,DIODE,0,0
+D509:,    Pin:3, Signal:NetC511_2, Orig_Signal:NetC511_2, NotProbed,D,DIODE,0,0
+D510:,    Pin:2, Signal:NetD510_K, Orig_Signal:NetD510_K, NotProbed,D,DIODE,0,0
+D510:,    Pin:1, Signal:L2_N_2, Orig_Signal:L2/N-2, NotProbed,D,DIODE,0,0
+D511:,    Pin:2, Signal:NetD511_K, Orig_Signal:NetD511_K, Probed,D,DIODE,0,0
+D511:,    Pin:1, Signal:NetD511_A, Orig_Signal:NetD511_A, NotProbed,D,DIODE,0,0
+D512:,    Pin:1, Signal:GND, Orig_Signal:GND, Probed,D,DIODE,0,0
+D512:,    Pin:2, Signal:NetD509_1, Orig_Signal:NetD509_1, NotProbed,D,DIODE,0,0
+D513:,    Pin:1, Signal:GND, Orig_Signal:GND, Probed,D,DIODE,0,0
+D513:,    Pin:2, Signal:NetD511_A, Orig_Signal:NetD511_A, NotProbed,D,DIODE,0,0
+D601:,    Pin:2, Signal:NetD601_K, Orig_Signal:NetD601_K, NotProbed,D,DIODE,0,0
+D601:,    Pin:1, Signal:NetD601_A, Orig_Signal:NetD601_A, Probed,D,DIODE,0,0
+D602:,    Pin:2, Signal:NetD601_K, Orig_Signal:NetD601_K, NotProbed,D,DIODE,0,0
+D602:,    Pin:1, Signal:NetC603_1, Orig_Signal:NetC603_1, Probed,D,DIODE,0,0
+F201:,    Pin:1, Signal:NetF201_1, Orig_Signal:NetF201_1, NotProbed,F,FUSE,0,0
+F201:,    Pin:2, Signal:P12V, Orig_Signal:+12V, Probed,F,FUSE,0,0
+FB101:,    Pin:1, Signal:NetFB101_1, Orig_Signal:NetFB101_1, Probed,FB,FBEAD,0,0
+FB101:,    Pin:2, Signal:N12V_A, Orig_Signal:-12V_A, Probed,FB,FBEAD,0,0
+FB301:,    Pin:1, Signal:3_3V, Orig_Signal:3.3V, Probed,FB,FBEAD,0,0
+FB301:,    Pin:2, Signal:NetC309_1, Orig_Signal:NetC309_1, NotProbed,FB,FBEAD,0,0
+FB501:,    Pin:1, Signal:NetFB501_1, Orig_Signal:NetFB501_1, Probed,FB,FBEAD,0,0
+FB501:,    Pin:2, Signal:NetFB501_2, Orig_Signal:NetFB501_2, Probed,FB,FBEAD,0,0
+FB502:,    Pin:1, Signal:NetFB502_1, Orig_Signal:NetFB502_1, Probed,FB,FBEAD,0,0
+FB502:,    Pin:2, Signal:NetFB502_2, Orig_Signal:NetFB502_2, Probed,FB,FBEAD,0,0
+FB601:,    Pin:1, Signal:P12V, Orig_Signal:+12V, Probed,FB,FBEAD,0,0
+FB601:,    Pin:2, Signal:12V_A, Orig_Signal:12V_A, NotProbed,FB,FBEAD,0,0
+GFX107:,    Pin:1, Signal:UNCONNECTED_82, Orig_Signal:UNCONNECTED_82, NotProbed,GFX,0,0,0
+GFX108:,    Pin:1, Signal:UNCONNECTED_81, Orig_Signal:UNCONNECTED_81, NotProbed,GFX,0,0,0
+GFX109:,    Pin:1, Signal:UNCONNECTED_80, Orig_Signal:UNCONNECTED_80, NotProbed,GFX,0,0,0
+GFX110:,    Pin:1, Signal:UNCONNECTED_16, Orig_Signal:UNCONNECTED_16, Probed,GFX,0,0,0
+GFX111:,    Pin:1, Signal:UNCONNECTED_15, Orig_Signal:UNCONNECTED_15, Probed,GFX,0,0,0
+GFX112:,    Pin:1, Signal:UNCONNECTED_14, Orig_Signal:UNCONNECTED_14, Probed,GFX,0,0,0
+J301:,    Pin:1, Signal:UNCONNECTED_6, Orig_Signal:UNCONNECTED_6, NotProbed,J,CON,0,0
+J301:,    Pin:2, Signal:UNCONNECTED_7, Orig_Signal:UNCONNECTED_7, NotProbed,J,CON,0,0
+J301:,    Pin:3, Signal:UNCONNECTED_8, Orig_Signal:UNCONNECTED_8, NotProbed,J,CON,0,0
+J301:,    Pin:4, Signal:UNCONNECTED_9, Orig_Signal:UNCONNECTED_9, NotProbed,J,CON,0,0
+J301:,    Pin:6, Signal:UNCONNECTED_11, Orig_Signal:UNCONNECTED_11, NotProbed,J,CON,0,0
+J301:,    Pin:7, Signal:UNCONNECTED_12, Orig_Signal:UNCONNECTED_12, NotProbed,J,CON,0,0
+J301:,    Pin:8, Signal:3_3V, Orig_Signal:3.3V, Probed,J,CON,0,0
+J301:,    Pin:5, Signal:UNCONNECTED_10, Orig_Signal:UNCONNECTED_10, NotProbed,J,CON,0,0
+J301:,    Pin:9, Signal:NetJ301_2, Orig_Signal:NetJ301_2, Probed,J,CON,0,0
+J301:,    Pin:10, Signal:NetJ301_3, Orig_Signal:NetJ301_3, Probed,J,CON,0,0
+J301:,    Pin:11, Signal:NetJ301_4, Orig_Signal:NetJ301_4, Probed,J,CON,0,0
+J301:,    Pin:12, Signal:GND, Orig_Signal:GND, Probed,J,CON,0,0
+J301:,    Pin:13, Signal:UNCONNECTED_13, Orig_Signal:UNCONNECTED_13, NotProbed,J,CON,0,0
+J302:,    Pin:1, Signal:GND, Orig_Signal:GND, Probed,J,CON,0,0
+J302:,    Pin:2, Signal:UNCONNECTED_4, Orig_Signal:UNCONNECTED_4, Probed,J,CON,0,0
+J302:,    Pin:3, Signal:5V, Orig_Signal:5V, Probed,J,CON,0,0
+J302:,    Pin:4, Signal:NetJ302_4, Orig_Signal:NetJ302_4, Probed,J,CON,0,0
+J302:,    Pin:5, Signal:NetJ302_5, Orig_Signal:NetJ302_5, Probed,J,CON,0,0
+J302:,    Pin:6, Signal:UNCONNECTED_5, Orig_Signal:UNCONNECTED_5, Probed,J,CON,0,0
+K401:,    Pin:2, Signal:NetC403_2, Orig_Signal:NetC403_2, NotProbed,K,RELAY,0,0
+K401:,    Pin:1, Signal:NetC403_1, Orig_Signal:NetC403_1, NotProbed,K,RELAY,0,0
+K401:,    Pin:4, Signal:L1_1, Orig_Signal:L1-1, Probed,K,RELAY,0,0
+K401:,    Pin:3, Signal:L2_N_1, Orig_Signal:L2/N-1, Probed,K,RELAY,0,0
+K401:,    Pin:6, Signal:L1_2, Orig_Signal:L1-2, Probed,K,RELAY,0,0
+K401:,    Pin:5, Signal:L2_N_2, Orig_Signal:L2/N-2, NotProbed,K,RELAY,0,0
+L201:,    Pin:2, Signal:5V, Orig_Signal:5V, Probed,L,COIL,0,0
+L201:,    Pin:1, Signal:NetC201_1, Orig_Signal:NetC201_1, Probed,L,COIL,0,0
+L601:,    Pin:1, Signal:NetC602_1, Orig_Signal:NetC602_1, Probed,L,COIL,0,0
+L601:,    Pin:4, Signal:NetC602_2, Orig_Signal:NetC602_2, Probed,L,COIL,0,0
+L601:,    Pin:3, Signal:NetC601_2, Orig_Signal:NetC601_2, Probed,L,COIL,0,0
+L601:,    Pin:2, Signal:NetC608_1, Orig_Signal:NetC608_1, Probed,L,COIL,0,0
+L602:,    Pin:2, Signal:NetC602_2, Orig_Signal:NetC602_2, Probed,L,COIL,0,0
+L602:,    Pin:1, Signal:L1_1, Orig_Signal:L1-1, Probed,L,COIL,0,0
+L603:,    Pin:1, Signal:L2_N_1, Orig_Signal:L2/N-1, Probed,L,COIL,0,0
+L603:,    Pin:2, Signal:NetC602_1, Orig_Signal:NetC602_1, Probed,L,COIL,0,0
+LD301:,    Pin:1, Signal:UNCONNECTED_78, Orig_Signal:UNCONNECTED_78, NotProbed,LD,LED,0,0
+LD301:,    Pin:2, Signal:NetLD301_AN, Orig_Signal:NetLD301_AN, Probed,LD,LED,0,0
+LD301:,    Pin:3, Signal:NetLD301_CAT, Orig_Signal:NetLD301_CAT, Probed,LD,LED,0,0
+LD302:,    Pin:1, Signal:UNCONNECTED_77, Orig_Signal:UNCONNECTED_77, NotProbed,LD,LED,0,0
+LD302:,    Pin:2, Signal:NetLD302_AN, Orig_Signal:NetLD302_AN, Probed,LD,LED,0,0
+LD302:,    Pin:3, Signal:NetLD302_CAT, Orig_Signal:NetLD302_CAT, Probed,LD,LED,0,0
+MH201:,    Pin:1, Signal:GND, Orig_Signal:GND, Probed,MH,0,0,0
+MH202:,    Pin:1, Signal:GND, Orig_Signal:GND, Probed,MH,0,0,0
+MH203:,    Pin:1, Signal:GND, Orig_Signal:GND, Probed,MH,0,0,0
+P101:,    Pin:20, Signal:CANL, Orig_Signal:CANL, Probed,P,CON,0,0
+P101:,    Pin:21, Signal:NetP101_21, Orig_Signal:NetP101_21, Probed,P,CON,0,0
+P101:,    Pin:19, Signal:CANH, Orig_Signal:CANH, Probed,P,CON,0,0
+P101:,    Pin:23, Signal:NetP101_23, Orig_Signal:NetP101_23, Probed,P,CON,0,0
+P101:,    Pin:18, Signal:NetP101_18, Orig_Signal:NetP101_18, Probed,P,CON,0,0
+P101:,    Pin:22, Signal:NetP101_22, Orig_Signal:NetP101_22, Probed,P,CON,0,0
+P101:,    Pin:17, Signal:RS485B, Orig_Signal:RS485B, Probed,P,CON,0,0
+P101:,    Pin:11, Signal:NetP101_11, Orig_Signal:NetP101_11, Probed,P,CON,0,0
+P101:,    Pin:15, Signal:ID2, Orig_Signal:ID2, Probed,P,CON,0,0
+P101:,    Pin:14, Signal:NetP101_14, Orig_Signal:NetP101_14, Probed,P,CON,0,0
+P101:,    Pin:13, Signal:TEMP1, Orig_Signal:TEMP1, Probed,P,CON,0,0
+P101:,    Pin:12, Signal:NetP101_12, Orig_Signal:NetP101_12, Probed,P,CON,0,0
+P101:,    Pin:24, Signal:GND, Orig_Signal:GND, Probed,P,CON,0,0
+P101:,    Pin:10, Signal:NetP101_10, Orig_Signal:NetP101_10, Probed,P,CON,0,0
+P101:,    Pin:16, Signal:RS485A, Orig_Signal:RS485A, Probed,P,CON,0,0
+P101:,    Pin:25, Signal:NetP101_25, Orig_Signal:NetP101_25, Probed,P,CON,0,0
+P101:,    Pin:30, Signal:GND, Orig_Signal:GND, Probed,P,CON,0,0
+P101:,    Pin:27, Signal:PROX_SNS, Orig_Signal:PROX_SNS, Probed,P,CON,0,0
+P101:,    Pin:28, Signal:NetP101_28, Orig_Signal:NetP101_28, Probed,P,CON,0,0
+P101:,    Pin:29, Signal:HALO_BYPASS, Orig_Signal:HALO_BYPASS, Probed,P,CON,0,0
+P101:,    Pin:8, Signal:GND, Orig_Signal:GND, Probed,P,CON,0,0
+P101:,    Pin:31, Signal:STM_TX_TMS_RX, Orig_Signal:STM_TX-TMS_RX, Probed,P,CON,0,0
+P101:,    Pin:32, Signal:STM_RX_TMS_TX, Orig_Signal:STM_RX-TMS_TX, Probed,P,CON,0,0
+P101:,    Pin:33, Signal:NetFB101_1, Orig_Signal:NetFB101_1, Probed,P,CON,0,0
+P101:,    Pin:34, Signal:GND, Orig_Signal:GND, Probed,P,CON,0,0
+P101:,    Pin:35, Signal:NetP101_35, Orig_Signal:NetP101_35, Probed,P,CON,0,0
+P101:,    Pin:36, Signal:CP, Orig_Signal:CP, Probed,P,CON,0,0
+P101:,    Pin:37, Signal:GND, Orig_Signal:GND, Probed,P,CON,0,0
+P101:,    Pin:38, Signal:P12V, Orig_Signal:+12V, Probed,P,CON,0,0
+P101:,    Pin:39, Signal:GND, Orig_Signal:GND, Probed,P,CON,0,0
+P101:,    Pin:40, Signal:P12V, Orig_Signal:+12V, Probed,P,CON,0,0
+P101:,    Pin:26, Signal:NetP101_26, Orig_Signal:NetP101_26, Probed,P,CON,0,0
+P101:,    Pin:7, Signal:L1_CS, Orig_Signal:L1_CS, Probed,P,CON,0,0
+P101:,    Pin:9, Signal:NetP101_9, Orig_Signal:NetP101_9, Probed,P,CON,0,0
+P101:,    Pin:5, Signal:NetP101_5, Orig_Signal:NetP101_5, Probed,P,CON,0,0
+P101:,    Pin:1, Signal:VOLT_MEAS, Orig_Signal:VOLT_MEAS, Probed,P,CON,0,0
+P101:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,P,CON,0,0
+P101:,    Pin:6, Signal:GND, Orig_Signal:GND, Probed,P,CON,0,0
+P101:,    Pin:4, Signal:GND, Orig_Signal:GND, Probed,P,CON,0,0
+P101:,    Pin:3, Signal:ID1, Orig_Signal:ID1, Probed,P,CON,0,0
+P201:,    Pin:6, Signal:UNCONNECTED_30, Orig_Signal:UNCONNECTED_30, NotProbed,P,CON,0,0
+P201:,    Pin:5, Signal:GND, Orig_Signal:GND, Probed,P,CON,0,0
+P201:,    Pin:4, Signal:UNCONNECTED_29, Orig_Signal:UNCONNECTED_29, NotProbed,P,CON,0,0
+P201:,    Pin:3, Signal:L2_N_1, Orig_Signal:L2/N-1, Probed,P,CON,0,0
+P201:,    Pin:2, Signal:UNCONNECTED_28, Orig_Signal:UNCONNECTED_28, NotProbed,P,CON,0,0
+P201:,    Pin:1, Signal:L1_1, Orig_Signal:L1-1, Probed,P,CON,0,0
+P202:,    Pin:1, Signal:L1_4, Orig_Signal:L1-4, NotProbed,P,CON,0,0
+P202:,    Pin:2, Signal:UNCONNECTED_25, Orig_Signal:UNCONNECTED_25, NotProbed,P,CON,0,0
+P202:,    Pin:3, Signal:L2_N_3, Orig_Signal:L2/N-3, NotProbed,P,CON,0,0
+P202:,    Pin:6, Signal:UNCONNECTED_27, Orig_Signal:UNCONNECTED_27, NotProbed,P,CON,0,0
+P202:,    Pin:5, Signal:GND, Orig_Signal:GND, Probed,P,CON,0,0
+P202:,    Pin:4, Signal:UNCONNECTED_26, Orig_Signal:UNCONNECTED_26, NotProbed,P,CON,0,0
+P204:,    Pin:2, Signal:PROX_SNS, Orig_Signal:PROX_SNS, Probed,P,CON,0,0
+P204:,    Pin:1, Signal:CP, Orig_Signal:CP, Probed,P,CON,0,0
+P205:,    Pin:4, Signal:UNCONNECTED_22, Orig_Signal:UNCONNECTED_22, NotProbed,P,CON,0,0
+P205:,    Pin:1, Signal:NetF201_1, Orig_Signal:NetF201_1, NotProbed,P,CON,0,0
+P205:,    Pin:3, Signal:GND, Orig_Signal:GND, Probed,P,CON,0,0
+P205:,    Pin:2, Signal:UNCONNECTED_21, Orig_Signal:UNCONNECTED_21, NotProbed,P,CON,0,0
+P205:,    Pin:6, Signal:UNCONNECTED_23, Orig_Signal:UNCONNECTED_23, NotProbed,P,CON,0,0
+P205:,    Pin:7, Signal:RS485A, Orig_Signal:RS485A, Probed,P,CON,0,0
+P205:,    Pin:8, Signal:UNCONNECTED_24, Orig_Signal:UNCONNECTED_24, NotProbed,P,CON,0,0
+P205:,    Pin:5, Signal:RS485B, Orig_Signal:RS485B, Probed,P,CON,0,0
+P206:,    Pin:1, Signal:CANL, Orig_Signal:CANL, Probed,P,CON,0,0
+P206:,    Pin:2, Signal:UNCONNECTED_17, Orig_Signal:UNCONNECTED_17, NotProbed,P,CON,0,0
+P206:,    Pin:3, Signal:CANL, Orig_Signal:CANL, Probed,P,CON,0,0
+P206:,    Pin:5, Signal:CANH, Orig_Signal:CANH, Probed,P,CON,0,0
+P206:,    Pin:6, Signal:UNCONNECTED_19, Orig_Signal:UNCONNECTED_19, NotProbed,P,CON,0,0
+P206:,    Pin:4, Signal:UNCONNECTED_18, Orig_Signal:UNCONNECTED_18, NotProbed,P,CON,0,0
+P206:,    Pin:8, Signal:UNCONNECTED_20, Orig_Signal:UNCONNECTED_20, NotProbed,P,CON,0,0
+P206:,    Pin:7, Signal:CANH, Orig_Signal:CANH, Probed,P,CON,0,0
+Q301:,    Pin:1, Signal:NetLD301_CAT, Orig_Signal:NetLD301_CAT, Probed,Q,TRT,0,0
+Q301:,    Pin:2, Signal:NetQ301_G, Orig_Signal:NetQ301_G, NotProbed,Q,TRT,0,0
+Q301:,    Pin:3, Signal:GND, Orig_Signal:GND, Probed,Q,TRT,0,0
+Q302:,    Pin:2, Signal:NetQ302_G, Orig_Signal:NetQ302_G, NotProbed,Q,TRT,0,0
+Q302:,    Pin:1, Signal:NetLD302_CAT, Orig_Signal:NetLD302_CAT, Probed,Q,TRT,0,0
+Q302:,    Pin:3, Signal:GND, Orig_Signal:GND, Probed,Q,TRT,0,0
+Q401:,    Pin:4, Signal:P12V, Orig_Signal:+12V, Probed,Q,TRT,0,0
+Q401:,    Pin:3, Signal:NetQ401_G, Orig_Signal:NetQ401_G, Probed,Q,TRT,0,0
+Q401:,    Pin:2, Signal:NetC403_2, Orig_Signal:NetC403_2, NotProbed,Q,TRT,0,0
+Q401:,    Pin:1, Signal:UNCONNECTED_36, Orig_Signal:UNCONNECTED_36, NotProbed,Q,TRT,0,0
+Q402:,    Pin:3, Signal:GND, Orig_Signal:GND, Probed,Q,TRT,0,0
+Q402:,    Pin:1, Signal:NetQ402_D, Orig_Signal:NetQ402_D, Probed,Q,TRT,0,0
+Q402:,    Pin:2, Signal:NetQ402_G, Orig_Signal:NetQ402_G, Probed,Q,TRT,0,0
+Q403:,    Pin:1, Signal:UNCONNECTED_74, Orig_Signal:UNCONNECTED_74, NotProbed,Q,TRT,0,0
+Q403:,    Pin:3, Signal:NetQ403_G, Orig_Signal:NetQ403_G, Probed,Q,TRT,0,0
+Q403:,    Pin:4, Signal:GND, Orig_Signal:GND, Probed,Q,TRT,0,0
+Q403:,    Pin:2, Signal:NetC403_1, Orig_Signal:NetC403_1, NotProbed,Q,TRT,0,0
+Q501:,    Pin:3, Signal:GND, Orig_Signal:GND, Probed,Q,TRT,0,0
+Q501:,    Pin:1, Signal:NetQ501_D, Orig_Signal:NetQ501_D, Probed,Q,TRT,0,0
+Q501:,    Pin:2, Signal:NetC506_2, Orig_Signal:NetC506_2, NotProbed,Q,TRT,0,0
+Q502:,    Pin:2, Signal:NetC506_2, Orig_Signal:NetC506_2, NotProbed,Q,TRT,0,0
+Q502:,    Pin:3, Signal:GND, Orig_Signal:GND, Probed,Q,TRT,0,0
+Q502:,    Pin:1, Signal:NetQ502_D, Orig_Signal:NetQ502_D, Probed,Q,TRT,0,0
+Q503:,    Pin:1, Signal:NetQ503_D, Orig_Signal:NetQ503_D, Probed,Q,TRT,0,0
+Q503:,    Pin:2, Signal:NetQ503_G, Orig_Signal:NetQ503_G, Probed,Q,TRT,0,0
+Q503:,    Pin:3, Signal:GND, Orig_Signal:GND, Probed,Q,TRT,0,0
+Q504:,    Pin:1, Signal:NetQ504_D, Orig_Signal:NetQ504_D, Probed,Q,TRT,0,0
+Q504:,    Pin:2, Signal:NetQ504_G, Orig_Signal:NetQ504_G, Probed,Q,TRT,0,0
+Q504:,    Pin:3, Signal:GND, Orig_Signal:GND, Probed,Q,TRT,0,0
+R101:,    Pin:1, Signal:NetP101_35, Orig_Signal:NetP101_35, Probed,R,RES,0,0
+R101:,    Pin:2, Signal:5V, Orig_Signal:5V, Probed,R,RES,0,0
+R102:,    Pin:1, Signal:NetP101_5, Orig_Signal:NetP101_5, Probed,R,RES,0,0
+R102:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,R,RES,0,0
+R103:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,R,RES,0,0
+R103:,    Pin:1, Signal:NetP101_9, Orig_Signal:NetP101_9, Probed,R,RES,0,0
+R104:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,R,RES,0,0
+R104:,    Pin:1, Signal:NetP101_10, Orig_Signal:NetP101_10, Probed,R,RES,0,0
+R105:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,R,RES,0,0
+R105:,    Pin:1, Signal:NetP101_11, Orig_Signal:NetP101_11, Probed,R,RES,0,0
+R106:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,R,RES,0,0
+R106:,    Pin:1, Signal:NetP101_12, Orig_Signal:NetP101_12, Probed,R,RES,0,0
+R107:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,R,RES,0,0
+R107:,    Pin:1, Signal:NetP101_14, Orig_Signal:NetP101_14, Probed,R,RES,0,0
+R108:,    Pin:1, Signal:NetP101_18, Orig_Signal:NetP101_18, Probed,R,RES,0,0
+R108:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,R,RES,0,0
+R109:,    Pin:1, Signal:NetP101_21, Orig_Signal:NetP101_21, Probed,R,RES,0,0
+R109:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,R,RES,0,0
+R110:,    Pin:1, Signal:NetP101_22, Orig_Signal:NetP101_22, Probed,R,RES,0,0
+R110:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,R,RES,0,0
+R111:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,R,RES,0,0
+R111:,    Pin:1, Signal:NetP101_23, Orig_Signal:NetP101_23, Probed,R,RES,0,0
+R112:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,R,RES,0,0
+R112:,    Pin:1, Signal:NetP101_25, Orig_Signal:NetP101_25, Probed,R,RES,0,0
+R113:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,R,RES,0,0
+R113:,    Pin:1, Signal:NetP101_26, Orig_Signal:NetP101_26, Probed,R,RES,0,0
+R114:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,R,RES,0,0
+R114:,    Pin:1, Signal:NetP101_28, Orig_Signal:NetP101_28, Probed,R,RES,0,0
+R201:,    Pin:2, Signal:3_3V, Orig_Signal:3.3V, Probed,R,RES,0,0
+R201:,    Pin:1, Signal:NetR201_1, Orig_Signal:NetR201_1, Probed,R,RES,0,0
+R202:,    Pin:2, Signal:NetR201_1, Orig_Signal:NetR201_1, Probed,R,RES,0,0
+R202:,    Pin:1, Signal:NetR202_1, Orig_Signal:NetR202_1, Probed,R,RES,0,0
+R203:,    Pin:2, Signal:NetR203_2, Orig_Signal:NetR203_2, Probed,R,RES,0,0
+R203:,    Pin:1, Signal:NetR203_1, Orig_Signal:NetR203_1, Probed,R,RES,0,0
+R204:,    Pin:2, Signal:5V, Orig_Signal:5V, Probed,R,RES,0,0
+R204:,    Pin:1, Signal:NetD204_3, Orig_Signal:NetD204_3, NotProbed,R,RES,0,0
+R205:,    Pin:2, Signal:PROX_SNS, Orig_Signal:PROX_SNS, Probed,R,RES,0,0
+R205:,    Pin:1, Signal:NetD203_CAT, Orig_Signal:NetD203_CAT, NotProbed,R,RES,0,0
+R206:,    Pin:2, Signal:NetD204_3, Orig_Signal:NetD204_3, NotProbed,R,RES,0,0
+R206:,    Pin:1, Signal:GND, Orig_Signal:GND, Probed,R,RES,0,0
+R207:,    Pin:1, Signal:GND, Orig_Signal:GND, Probed,R,RES,0,0
+R207:,    Pin:2, Signal:NetD204_3, Orig_Signal:NetD204_3, NotProbed,R,RES,0,0
+R208:,    Pin:1, Signal:NetR201_1, Orig_Signal:NetR201_1, Probed,R,RES,0,0
+R208:,    Pin:2, Signal:3_3V, Orig_Signal:3.3V, Probed,R,RES,0,0
+R301:,    Pin:2, Signal:NetC301_1, Orig_Signal:NetC301_1, NotProbed,R,RES,0,0
+R301:,    Pin:1, Signal:5V, Orig_Signal:5V, Probed,R,RES,0,0
+R302:,    Pin:1, Signal:NetC303_2, Orig_Signal:NetC303_2, NotProbed,R,RES,0,0
+R302:,    Pin:2, Signal:3_3V, Orig_Signal:3.3V, Probed,R,RES,0,0
+R303:,    Pin:2, Signal:SWDIO, Orig_Signal:SWDIO, NotProbed,R,RES,0,0
+R303:,    Pin:1, Signal:NetJ301_2, Orig_Signal:NetJ301_2, Probed,R,RES,0,0
+R304:,    Pin:2, Signal:NetJ301_3, Orig_Signal:NetJ301_3, Probed,R,RES,0,0
+R304:,    Pin:1, Signal:NRST, Orig_Signal:NRST, Probed,R,RES,0,0
+R305:,    Pin:1, Signal:NetJ301_4, Orig_Signal:NetJ301_4, Probed,R,RES,0,0
+R305:,    Pin:2, Signal:SWCLK, Orig_Signal:SWCLK, NotProbed,R,RES,0,0
+R306:,    Pin:2, Signal:NRST, Orig_Signal:NRST, Probed,R,RES,0,0
+R306:,    Pin:1, Signal:3_3V, Orig_Signal:3.3V, Probed,R,RES,0,0
+R307:,    Pin:1, Signal:NetC307_1, Orig_Signal:NetC307_1, NotProbed,R,RES,0,0
+R307:,    Pin:2, Signal:3_3V, Orig_Signal:3.3V, Probed,R,RES,0,0
+R308:,    Pin:2, Signal:NetJ302_5, Orig_Signal:NetJ302_5, Probed,R,RES,0,0
+R308:,    Pin:1, Signal:DEBUG_TX, Orig_Signal:DEBUG_TX, Probed,R,RES,0,0
+R309:,    Pin:2, Signal:NetJ302_4, Orig_Signal:NetJ302_4, Probed,R,RES,0,0
+R309:,    Pin:1, Signal:DEBUG_RX, Orig_Signal:DEBUG_RX, Probed,R,RES,0,0
+R310:,    Pin:1, Signal:3_3V, Orig_Signal:3.3V, Probed,R,RES,0,0
+R310:,    Pin:2, Signal:NetLD301_AN, Orig_Signal:NetLD301_AN, Probed,R,RES,0,0
+R311:,    Pin:1, Signal:3_3V, Orig_Signal:3.3V, Probed,R,RES,0,0
+R311:,    Pin:2, Signal:NetLD302_AN, Orig_Signal:NetLD302_AN, Probed,R,RES,0,0
+R312:,    Pin:1, Signal:NetQ302_G, Orig_Signal:NetQ302_G, NotProbed,R,RES,0,0
+R312:,    Pin:2, Signal:LED1, Orig_Signal:LED1, NotProbed,R,RES,0,0
+R313:,    Pin:1, Signal:NetQ301_G, Orig_Signal:NetQ301_G, NotProbed,R,RES,0,0
+R313:,    Pin:2, Signal:LED2, Orig_Signal:LED2, NotProbed,R,RES,0,0
+R314:,    Pin:1, Signal:GND, Orig_Signal:GND, Probed,R,RES,0,0
+R314:,    Pin:2, Signal:NetQ301_G, Orig_Signal:NetQ301_G, NotProbed,R,RES,0,0
+R315:,    Pin:2, Signal:NetQ302_G, Orig_Signal:NetQ302_G, NotProbed,R,RES,0,0
+R315:,    Pin:1, Signal:GND, Orig_Signal:GND, Probed,R,RES,0,0
+R316:,    Pin:1, Signal:NetR316_1, Orig_Signal:NetR316_1, Probed,R,RES,0,0
+R316:,    Pin:2, Signal:HALO_BYPASS, Orig_Signal:HALO_BYPASS, Probed,R,RES,0,0
+R317:,    Pin:2, Signal:NetR317_2, Orig_Signal:NetR317_2, Probed,R,RES,0,0
+R317:,    Pin:1, Signal:STM_TX_TMS_RX, Orig_Signal:STM_TX-TMS_RX, Probed,R,RES,0,0
+R318:,    Pin:2, Signal:NetR318_2, Orig_Signal:NetR318_2, Probed,R,RES,0,0
+R318:,    Pin:1, Signal:STM_RX_TMS_TX, Orig_Signal:STM_RX-TMS_TX, Probed,R,RES,0,0
+R319:,    Pin:2, Signal:NetC310_1, Orig_Signal:NetC310_1, NotProbed,R,RES,0,0
+R319:,    Pin:1, Signal:NetC311_1, Orig_Signal:NetC311_1, NotProbed,R,RES,0,0
+R320:,    Pin:1, Signal:WDI, Orig_Signal:WDI, NotProbed,R,RES,0,0
+R320:,    Pin:2, Signal:3_3V, Orig_Signal:3.3V, Probed,R,RES,0,0
+R321:,    Pin:1, Signal:3_3V, Orig_Signal:3.3V, Probed,R,RES,0,0
+R321:,    Pin:2, Signal:DEBUG_TX, Orig_Signal:DEBUG_TX, Probed,R,RES,0,0
+R322:,    Pin:1, Signal:3_3V, Orig_Signal:3.3V, Probed,R,RES,0,0
+R322:,    Pin:2, Signal:DEBUG_RX, Orig_Signal:DEBUG_RX, Probed,R,RES,0,0
+R323:,    Pin:1, Signal:SWDIO, Orig_Signal:SWDIO, NotProbed,R,RES,0,0
+R323:,    Pin:2, Signal:3_3V, Orig_Signal:3.3V, Probed,R,RES,0,0
+R324:,    Pin:2, Signal:3_3V, Orig_Signal:3.3V, Probed,R,RES,0,0
+R324:,    Pin:1, Signal:SWCLK, Orig_Signal:SWCLK, NotProbed,R,RES,0,0
+R325:,    Pin:1, Signal:NetC311_1, Orig_Signal:NetC311_1, NotProbed,R,RES,0,0
+R325:,    Pin:2, Signal:NetR325_2, Orig_Signal:NetR325_2, NotProbed,R,RES,0,0
+R401:,    Pin:2, Signal:P12V, Orig_Signal:+12V, Probed,R,RES,0,0
+R401:,    Pin:1, Signal:NetQ402_D, Orig_Signal:NetQ402_D, Probed,R,RES,0,0
+R402:,    Pin:1, Signal:NetQ401_G, Orig_Signal:NetQ401_G, Probed,R,RES,0,0
+R402:,    Pin:2, Signal:NetQ402_D, Orig_Signal:NetQ402_D, Probed,R,RES,0,0
+R403:,    Pin:1, Signal:NetQ402_G, Orig_Signal:NetQ402_G, Probed,R,RES,0,0
+R403:,    Pin:2, Signal:RELAY_CTRL_2, Orig_Signal:RELAY_CTRL_2, NotProbed,R,RES,0,0
+R404:,    Pin:2, Signal:NetQ402_G, Orig_Signal:NetQ402_G, Probed,R,RES,0,0
+R404:,    Pin:1, Signal:GND, Orig_Signal:GND, Probed,R,RES,0,0
+R405:,    Pin:1, Signal:P12V, Orig_Signal:+12V, Probed,R,RES,0,0
+R405:,    Pin:2, Signal:NetC401_1, Orig_Signal:NetC401_1, NotProbed,R,RES,0,0
+R415:,    Pin:2, Signal:RELAY_CTRL_1, Orig_Signal:RELAY_CTRL_1, Probed,R,RES,0,0
+R415:,    Pin:1, Signal:NetQ403_G, Orig_Signal:NetQ403_G, Probed,R,RES,0,0
+R416:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,R,RES,0,0
+R416:,    Pin:1, Signal:NetQ403_G, Orig_Signal:NetQ403_G, Probed,R,RES,0,0
+R501:,    Pin:2, Signal:NetFB501_2, Orig_Signal:NetFB501_2, Probed,R,RES,0,0
+R501:,    Pin:1, Signal:NetC501_2, Orig_Signal:NetC501_2, NotProbed,R,RES,0,0
+R502:,    Pin:2, Signal:NetR502_2, Orig_Signal:NetR502_2, Probed,R,RES,0,0
+R502:,    Pin:1, Signal:NetR502_1, Orig_Signal:NetR502_1, Probed,R,RES,0,0
+R503:,    Pin:1, Signal:NetR503_1, Orig_Signal:NetR503_1, Probed,R,RES,0,0
+R503:,    Pin:2, Signal:NetR502_1, Orig_Signal:NetR502_1, Probed,R,RES,0,0
+R504:,    Pin:2, Signal:NetR503_1, Orig_Signal:NetR503_1, Probed,R,RES,0,0
+R504:,    Pin:1, Signal:NetR504_1, Orig_Signal:NetR504_1, Probed,R,RES,0,0
+R505:,    Pin:1, Signal:L1_1, Orig_Signal:L1-1, Probed,R,RES,0,0
+R505:,    Pin:2, Signal:NetR505_2, Orig_Signal:NetR505_2, NotProbed,R,RES,0,0
+R506:,    Pin:1, Signal:NetR505_2, Orig_Signal:NetR505_2, NotProbed,R,RES,0,0
+R506:,    Pin:2, Signal:NetR506_2, Orig_Signal:NetR506_2, NotProbed,R,RES,0,0
+R507:,    Pin:1, Signal:NetR506_2, Orig_Signal:NetR506_2, NotProbed,R,RES,0,0
+R507:,    Pin:2, Signal:NetC502_2, Orig_Signal:NetC502_2, NotProbed,R,RES,0,0
+R508:,    Pin:1, Signal:NetFB501_1, Orig_Signal:NetFB501_1, Probed,R,RES,0,0
+R508:,    Pin:2, Signal:NetC502_1, Orig_Signal:NetC502_1, NotProbed,R,RES,0,0
+R509:,    Pin:1, Signal:NetC503_2, Orig_Signal:NetC503_2, NotProbed,R,RES,0,0
+R509:,    Pin:2, Signal:NetC502_2, Orig_Signal:NetC502_2, NotProbed,R,RES,0,0
+R510:,    Pin:2, Signal:NetR510_2, Orig_Signal:NetR510_2, NotProbed,R,RES,0,0
+R510:,    Pin:1, Signal:L2_N_1, Orig_Signal:L2/N-1, Probed,R,RES,0,0
+R511:,    Pin:1, Signal:NetR510_2, Orig_Signal:NetR510_2, NotProbed,R,RES,0,0
+R511:,    Pin:2, Signal:NetR511_2, Orig_Signal:NetR511_2, NotProbed,R,RES,0,0
+R512:,    Pin:1, Signal:NetR511_2, Orig_Signal:NetR511_2, NotProbed,R,RES,0,0
+R512:,    Pin:2, Signal:NetC503_2, Orig_Signal:NetC503_2, NotProbed,R,RES,0,0
+R513:,    Pin:1, Signal:NetFB502_1, Orig_Signal:NetFB502_1, Probed,R,RES,0,0
+R513:,    Pin:2, Signal:NetC503_1, Orig_Signal:NetC503_1, NotProbed,R,RES,0,0
+R514:,    Pin:1, Signal:NetC504_2, Orig_Signal:NetC504_2, NotProbed,R,RES,0,0
+R514:,    Pin:2, Signal:NetFB502_2, Orig_Signal:NetFB502_2, Probed,R,RES,0,0
+R515:,    Pin:2, Signal:NetFB502_1, Orig_Signal:NetFB502_1, Probed,R,RES,0,0
+R515:,    Pin:1, Signal:GND, Orig_Signal:GND, Probed,R,RES,0,0
+R516:,    Pin:1, Signal:GND, Orig_Signal:GND, Probed,R,RES,0,0
+R516:,    Pin:2, Signal:NetFB501_1, Orig_Signal:NetFB501_1, Probed,R,RES,0,0
+R517:,    Pin:2, Signal:NetR517_2, Orig_Signal:NetR517_2, NotProbed,R,RES,0,0
+R517:,    Pin:1, Signal:NetR517_1, Orig_Signal:NetR517_1, NotProbed,R,RES,0,0
+R518:,    Pin:2, Signal:NetR518_2, Orig_Signal:NetR518_2, NotProbed,R,RES,0,0
+R518:,    Pin:1, Signal:VOLT_MEAS, Orig_Signal:VOLT_MEAS, Probed,R,RES,0,0
+R519:,    Pin:2, Signal:NetR517_1, Orig_Signal:NetR517_1, NotProbed,R,RES,0,0
+R519:,    Pin:1, Signal:NetR518_2, Orig_Signal:NetR518_2, NotProbed,R,RES,0,0
+R520:,    Pin:2, Signal:3_3V, Orig_Signal:3.3V, Probed,R,RES,0,0
+R520:,    Pin:1, Signal:NetQ501_D, Orig_Signal:NetQ501_D, Probed,R,RES,0,0
+R521:,    Pin:2, Signal:NetR521_2, Orig_Signal:NetR521_2, NotProbed,R,RES,0,0
+R521:,    Pin:1, Signal:NetD504_K, Orig_Signal:NetD504_K, NotProbed,R,RES,0,0
+R522:,    Pin:1, Signal:NetR521_2, Orig_Signal:NetR521_2, NotProbed,R,RES,0,0
+R522:,    Pin:2, Signal:NetR522_2, Orig_Signal:NetR522_2, NotProbed,R,RES,0,0
+R523:,    Pin:1, Signal:NetR522_2, Orig_Signal:NetR522_2, NotProbed,R,RES,0,0
+R523:,    Pin:2, Signal:NetD507_K, Orig_Signal:NetD507_K, NotProbed,R,RES,0,0
+R524:,    Pin:2, Signal:NetR524_2, Orig_Signal:NetR524_2, NotProbed,R,RES,0,0
+R524:,    Pin:1, Signal:NetD506_K, Orig_Signal:NetD506_K, NotProbed,R,RES,0,0
+R525:,    Pin:1, Signal:NetR524_2, Orig_Signal:NetR524_2, NotProbed,R,RES,0,0
+R525:,    Pin:2, Signal:NetR525_2, Orig_Signal:NetR525_2, NotProbed,R,RES,0,0
+R526:,    Pin:1, Signal:NetR525_2, Orig_Signal:NetR525_2, NotProbed,R,RES,0,0
+R526:,    Pin:2, Signal:NetD507_K, Orig_Signal:NetD507_K, NotProbed,R,RES,0,0
+R527:,    Pin:1, Signal:NetC506_2, Orig_Signal:NetC506_2, NotProbed,R,RES,0,0
+R527:,    Pin:2, Signal:NetD507_K, Orig_Signal:NetD507_K, NotProbed,R,RES,0,0
+R528:,    Pin:1, Signal:GND, Orig_Signal:GND, Probed,R,RES,0,0
+R528:,    Pin:2, Signal:NetC506_2, Orig_Signal:NetC506_2, NotProbed,R,RES,0,0
+R529:,    Pin:2, Signal:NetC506_2, Orig_Signal:NetC506_2, NotProbed,R,RES,0,0
+R529:,    Pin:1, Signal:GND, Orig_Signal:GND, Probed,R,RES,0,0
+R530:,    Pin:1, Signal:NetQ502_D, Orig_Signal:NetQ502_D, Probed,R,RES,0,0
+R530:,    Pin:2, Signal:3_3V, Orig_Signal:3.3V, Probed,R,RES,0,0
+R531:,    Pin:2, Signal:L1_CS, Orig_Signal:L1_CS, Probed,R,RES,0,0
+R531:,    Pin:1, Signal:NetC518_1, Orig_Signal:NetC518_1, NotProbed,R,RES,0,0
+R532:,    Pin:2, Signal:3_3V, Orig_Signal:3.3V, Probed,R,RES,0,0
+R532:,    Pin:1, Signal:NetQ503_D, Orig_Signal:NetQ503_D, Probed,R,RES,0,0
+R533:,    Pin:1, Signal:ID1, Orig_Signal:ID1, Probed,R,RES,0,0
+R533:,    Pin:2, Signal:5V, Orig_Signal:5V, Probed,R,RES,0,0
+R534:,    Pin:2, Signal:5V, Orig_Signal:5V, Probed,R,RES,0,0
+R534:,    Pin:1, Signal:ID2, Orig_Signal:ID2, Probed,R,RES,0,0
+R535:,    Pin:1, Signal:NetD508_K, Orig_Signal:NetD508_K, NotProbed,R,RES,0,0
+R535:,    Pin:2, Signal:NetR535_2, Orig_Signal:NetR535_2, NotProbed,R,RES,0,0
+R536:,    Pin:1, Signal:NetR535_2, Orig_Signal:NetR535_2, NotProbed,R,RES,0,0
+R536:,    Pin:2, Signal:NetR536_2, Orig_Signal:NetR536_2, NotProbed,R,RES,0,0
+R537:,    Pin:1, Signal:NetR536_2, Orig_Signal:NetR536_2, NotProbed,R,RES,0,0
+R537:,    Pin:2, Signal:NetD511_K, Orig_Signal:NetD511_K, Probed,R,RES,0,0
+R538:,    Pin:2, Signal:NetQ503_G, Orig_Signal:NetQ503_G, Probed,R,RES,0,0
+R538:,    Pin:1, Signal:NetC511_2, Orig_Signal:NetC511_2, NotProbed,R,RES,0,0
+R539:,    Pin:1, Signal:NetD511_K, Orig_Signal:NetD511_K, Probed,R,RES,0,0
+R539:,    Pin:2, Signal:NetC511_2, Orig_Signal:NetC511_2, NotProbed,R,RES,0,0
+R540:,    Pin:1, Signal:NetD510_K, Orig_Signal:NetD510_K, NotProbed,R,RES,0,0
+R540:,    Pin:2, Signal:NetR540_2, Orig_Signal:NetR540_2, NotProbed,R,RES,0,0
+R541:,    Pin:2, Signal:NetR541_2, Orig_Signal:NetR541_2, NotProbed,R,RES,0,0
+R541:,    Pin:1, Signal:NetR540_2, Orig_Signal:NetR540_2, NotProbed,R,RES,0,0
+R542:,    Pin:2, Signal:NetD511_K, Orig_Signal:NetD511_K, Probed,R,RES,0,0
+R542:,    Pin:1, Signal:NetR541_2, Orig_Signal:NetR541_2, NotProbed,R,RES,0,0
+R543:,    Pin:2, Signal:NetC511_2, Orig_Signal:NetC511_2, NotProbed,R,RES,0,0
+R543:,    Pin:1, Signal:NetD511_K, Orig_Signal:NetD511_K, Probed,R,RES,0,0
+R544:,    Pin:1, Signal:GND, Orig_Signal:GND, Probed,R,RES,0,0
+R544:,    Pin:2, Signal:ID1, Orig_Signal:ID1, Probed,R,RES,0,0
+R545:,    Pin:1, Signal:GND, Orig_Signal:GND, Probed,R,RES,0,0
+R545:,    Pin:2, Signal:ID2, Orig_Signal:ID2, Probed,R,RES,0,0
+R546:,    Pin:1, Signal:NetQ504_G, Orig_Signal:NetQ504_G, Probed,R,RES,0,0
+R546:,    Pin:2, Signal:NetC511_2, Orig_Signal:NetC511_2, NotProbed,R,RES,0,0
+R547:,    Pin:2, Signal:3_3V, Orig_Signal:3.3V, Probed,R,RES,0,0
+R547:,    Pin:1, Signal:NetQ504_D, Orig_Signal:NetQ504_D, Probed,R,RES,0,0
+R548:,    Pin:2, Signal:NetC511_2, Orig_Signal:NetC511_2, NotProbed,R,RES,0,0
+R548:,    Pin:1, Signal:GND, Orig_Signal:GND, Probed,R,RES,0,0
+R549:,    Pin:1, Signal:GND, Orig_Signal:GND, Probed,R,RES,0,0
+R549:,    Pin:2, Signal:NetC511_2, Orig_Signal:NetC511_2, NotProbed,R,RES,0,0
+R550:,    Pin:1, Signal:NetC518_2, Orig_Signal:NetC518_2, NotProbed,R,RES,0,0
+R550:,    Pin:2, Signal:NetC518_1, Orig_Signal:NetC518_1, NotProbed,R,RES,0,0
+R551:,    Pin:2, Signal:NetC515_2, Orig_Signal:NetC515_2, NotProbed,R,RES,0,0
+R551:,    Pin:1, Signal:NetC520_1, Orig_Signal:NetC520_1, Probed,R,RES,0,0
+R552:,    Pin:1, Signal:GND, Orig_Signal:GND, Probed,R,RES,0,0
+R552:,    Pin:2, Signal:NetC515_2, Orig_Signal:NetC515_2, NotProbed,R,RES,0,0
+R553:,    Pin:1, Signal:GND, Orig_Signal:GND, Probed,R,RES,0,0
+R553:,    Pin:2, Signal:NetC518_2, Orig_Signal:NetC518_2, NotProbed,R,RES,0,0
+R601:,    Pin:2, Signal:NetC603_2, Orig_Signal:NetC603_2, NotProbed,R,RES,0,0
+R601:,    Pin:1, Signal:NetD601_A, Orig_Signal:NetD601_A, Probed,R,RES,0,0
+R602:,    Pin:1, Signal:NetC603_2, Orig_Signal:NetC603_2, NotProbed,R,RES,0,0
+R602:,    Pin:2, Signal:P12V, Orig_Signal:+12V, Probed,R,RES,0,0
+R603:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,R,RES,0,0
+R603:,    Pin:1, Signal:NetC603_1, Orig_Signal:NetC603_1, Probed,R,RES,0,0
+TP101:,    Pin:1, Signal:NetP101_35, Orig_Signal:NetP101_35, Probed,TP,TEST POINT,0,0
+TP102:,    Pin:1, Signal:NetP101_5, Orig_Signal:NetP101_5, Probed,TP,TEST POINT,0,0
+TP103:,    Pin:1, Signal:NetP101_9, Orig_Signal:NetP101_9, Probed,TP,TEST POINT,0,0
+TP104:,    Pin:1, Signal:NetP101_10, Orig_Signal:NetP101_10, Probed,TP,TEST POINT,0,0
+TP105:,    Pin:1, Signal:NetP101_11, Orig_Signal:NetP101_11, Probed,TP,TEST POINT,0,0
+TP106:,    Pin:1, Signal:NetP101_12, Orig_Signal:NetP101_12, Probed,TP,TEST POINT,0,0
+TP107:,    Pin:1, Signal:NetP101_21, Orig_Signal:NetP101_21, Probed,TP,TEST POINT,0,0
+TP108:,    Pin:1, Signal:NetP101_22, Orig_Signal:NetP101_22, Probed,TP,TEST POINT,0,0
+TP109:,    Pin:1, Signal:NetP101_25, Orig_Signal:NetP101_25, Probed,TP,TEST POINT,0,0
+TP110:,    Pin:1, Signal:NetP101_26, Orig_Signal:NetP101_26, Probed,TP,TEST POINT,0,0
+TP111:,    Pin:1, Signal:NetP101_14, Orig_Signal:NetP101_14, Probed,TP,TEST POINT,0,0
+TP112:,    Pin:1, Signal:NetP101_28, Orig_Signal:NetP101_28, Probed,TP,TEST POINT,0,0
+TP113:,    Pin:1, Signal:NetP101_23, Orig_Signal:NetP101_23, Probed,TP,TEST POINT,0,0
+TP114:,    Pin:1, Signal:NetP101_18, Orig_Signal:NetP101_18, Probed,TP,TEST POINT,0,0
+TP115:,    Pin:1, Signal:N12V_A, Orig_Signal:-12V_A, Probed,TP,TEST POINT,0,0
+TP116:,    Pin:1, Signal:NetFB101_1, Orig_Signal:NetFB101_1, Probed,TP,TEST POINT,0,0
+TP201:,    Pin:1, Signal:L1_1, Orig_Signal:L1-1, Probed,TP,TEST POINT,0,0
+TP202:,    Pin:1, Signal:L2_N_1, Orig_Signal:L2/N-1, Probed,TP,TEST POINT,0,0
+TP203:,    Pin:1, Signal:NetD204_3, Orig_Signal:NetD204_3, NotProbed,TP,TEST POINT,0,0
+TP204:,    Pin:1, Signal:NetD203_AN, Orig_Signal:NetD203_AN, NotProbed,TP,TEST POINT,0,0
+TP205:,    Pin:1, Signal:L1_4, Orig_Signal:L1-4, NotProbed,TP,TEST POINT,0,0
+TP206:,    Pin:1, Signal:NetD203_CAT, Orig_Signal:NetD203_CAT, NotProbed,TP,TEST POINT,0,0
+TP207:,    Pin:1, Signal:PROX_SNS, Orig_Signal:PROX_SNS, Probed,TP,TEST POINT,0,0
+TP208:,    Pin:1, Signal:L2_N_3, Orig_Signal:L2/N-3, NotProbed,TP,TEST POINT,0,0
+TP209:,    Pin:1, Signal:GND, Orig_Signal:GND, Probed,TP,TEST POINT,0,0
+TP210:,    Pin:1, Signal:GND, Orig_Signal:GND, Probed,TP,TEST POINT,0,0
+TP211:,    Pin:1, Signal:NetF201_1, Orig_Signal:NetF201_1, NotProbed,TP,TEST POINT,0,0
+TP212:,    Pin:1, Signal:NetC201_1, Orig_Signal:NetC201_1, Probed,TP,TEST POINT,0,0
+TP213:,    Pin:1, Signal:NetTP213_1, Orig_Signal:NetTP213_1, Probed,TP,TEST POINT,0,0
+TP214:,    Pin:1, Signal:CP, Orig_Signal:CP, Probed,TP,TEST POINT,0,0
+TP215:,    Pin:1, Signal:NetR203_2, Orig_Signal:NetR203_2, Probed,TP,TEST POINT,0,0
+TP216:,    Pin:1, Signal:NetTP216_1, Orig_Signal:NetTP216_1, Probed,TP,TEST POINT,0,0
+TP217:,    Pin:1, Signal:CANL, Orig_Signal:CANL, Probed,TP,TEST POINT,0,0
+TP218:,    Pin:1, Signal:CANH, Orig_Signal:CANH, Probed,TP,TEST POINT,0,0
+TP219:,    Pin:1, Signal:GND, Orig_Signal:GND, Probed,TP,TEST POINT,0,0
+TP220:,    Pin:1, Signal:RS485A, Orig_Signal:RS485A, Probed,TP,TEST POINT,0,0
+TP221:,    Pin:1, Signal:RS485B, Orig_Signal:RS485B, Probed,TP,TEST POINT,0,0
+TP222:,    Pin:1, Signal:NetR202_1, Orig_Signal:NetR202_1, Probed,TP,TEST POINT,0,0
+TP223:,    Pin:1, Signal:NetTP223_1, Orig_Signal:NetTP223_1, Probed,TP,TEST POINT,0,0
+TP224:,    Pin:1, Signal:NetR203_1, Orig_Signal:NetR203_1, Probed,TP,TEST POINT,0,0
+TP225:,    Pin:1, Signal:NetR201_1, Orig_Signal:NetR201_1, Probed,TP,TEST POINT,0,0
+TP226:,    Pin:1, Signal:NetD201_K, Orig_Signal:NetD201_K, NotProbed,TP,TEST POINT,0,0
+TP228:,    Pin:1, Signal:L1_3, Orig_Signal:L1-3, Probed,TP,TEST POINT,0,0
+TP301:,    Pin:1, Signal:NetC301_1, Orig_Signal:NetC301_1, NotProbed,TP,TEST POINT,0,0
+TP302:,    Pin:1, Signal:NetC303_2, Orig_Signal:NetC303_2, NotProbed,TP,TEST POINT,0,0
+TP303:,    Pin:1, Signal:NetJ301_2, Orig_Signal:NetJ301_2, Probed,TP,TEST POINT,0,0
+TP304:,    Pin:1, Signal:NetJ301_3, Orig_Signal:NetJ301_3, Probed,TP,TEST POINT,0,0
+TP305:,    Pin:1, Signal:NetJ301_4, Orig_Signal:NetJ301_4, Probed,TP,TEST POINT,0,0
+TP306:,    Pin:1, Signal:3_3V, Orig_Signal:3.3V, Probed,TP,TEST POINT,0,0
+TP307:,    Pin:1, Signal:NetC307_1, Orig_Signal:NetC307_1, NotProbed,TP,TEST POINT,0,0
+TP308:,    Pin:1, Signal:NetJ302_5, Orig_Signal:NetJ302_5, Probed,TP,TEST POINT,0,0
+TP309:,    Pin:1, Signal:NetJ302_4, Orig_Signal:NetJ302_4, Probed,TP,TEST POINT,0,0
+TP310:,    Pin:1, Signal:NetC309_1, Orig_Signal:NetC309_1, NotProbed,TP,TEST POINT,0,0
+TP311:,    Pin:1, Signal:NetLD301_AN, Orig_Signal:NetLD301_AN, Probed,TP,TEST POINT,0,0
+TP312:,    Pin:1, Signal:NetLD302_AN, Orig_Signal:NetLD302_AN, Probed,TP,TEST POINT,0,0
+TP313:,    Pin:1, Signal:NRST, Orig_Signal:NRST, Probed,TP,TEST POINT,0,0
+TP314:,    Pin:1, Signal:SWDIO, Orig_Signal:SWDIO, NotProbed,TP,TEST POINT,0,0
+TP315:,    Pin:1, Signal:SWCLK, Orig_Signal:SWCLK, NotProbed,TP,TEST POINT,0,0
+TP316:,    Pin:1, Signal:LED1, Orig_Signal:LED1, NotProbed,TP,TEST POINT,0,0
+TP317:,    Pin:1, Signal:NetLD301_CAT, Orig_Signal:NetLD301_CAT, Probed,TP,TEST POINT,0,0
+TP318:,    Pin:1, Signal:NetQ302_G, Orig_Signal:NetQ302_G, NotProbed,TP,TEST POINT,0,0
+TP319:,    Pin:1, Signal:WDI, Orig_Signal:WDI, NotProbed,TP,TEST POINT,0,0
+TP320:,    Pin:1, Signal:NetLD302_CAT, Orig_Signal:NetLD302_CAT, Probed,TP,TEST POINT,0,0
+TP321:,    Pin:1, Signal:LED2, Orig_Signal:LED2, NotProbed,TP,TEST POINT,0,0
+TP322:,    Pin:1, Signal:NetQ301_G, Orig_Signal:NetQ301_G, NotProbed,TP,TEST POINT,0,0
+TP323:,    Pin:1, Signal:DEBUG_TX, Orig_Signal:DEBUG_TX, Probed,TP,TEST POINT,0,0
+TP324:,    Pin:1, Signal:DEBUG_RX, Orig_Signal:DEBUG_RX, Probed,TP,TEST POINT,0,0
+TP325:,    Pin:1, Signal:NetR316_1, Orig_Signal:NetR316_1, Probed,TP,TEST POINT,0,0
+TP326:,    Pin:1, Signal:HALO_BYPASS, Orig_Signal:HALO_BYPASS, Probed,TP,TEST POINT,0,0
+TP327:,    Pin:1, Signal:STM_TX_TMS_RX, Orig_Signal:STM_TX-TMS_RX, Probed,TP,TEST POINT,0,0
+TP328:,    Pin:1, Signal:NetR317_2, Orig_Signal:NetR317_2, Probed,TP,TEST POINT,0,0
+TP329:,    Pin:1, Signal:STM_RX_TMS_TX, Orig_Signal:STM_RX-TMS_TX, Probed,TP,TEST POINT,0,0
+TP330:,    Pin:1, Signal:NetR318_2, Orig_Signal:NetR318_2, Probed,TP,TEST POINT,0,0
+TP401:,    Pin:1, Signal:NetQ401_G, Orig_Signal:NetQ401_G, Probed,TP,TEST POINT,0,0
+TP402:,    Pin:1, Signal:NetQ402_D, Orig_Signal:NetQ402_D, Probed,TP,TEST POINT,0,0
+TP403:,    Pin:1, Signal:RELAY_CTRL_2, Orig_Signal:RELAY_CTRL_2, NotProbed,TP,TEST POINT,0,0
+TP404:,    Pin:1, Signal:NetQ402_G, Orig_Signal:NetQ402_G, Probed,TP,TEST POINT,0,0
+TP405:,    Pin:1, Signal:NetD401_CAT, Orig_Signal:NetD401_CAT, NotProbed,TP,TEST POINT,0,0
+TP406:,    Pin:1, Signal:NetC403_2, Orig_Signal:NetC403_2, NotProbed,TP,TEST POINT,0,0
+TP419:,    Pin:1, Signal:L1_2, Orig_Signal:L1-2, Probed,TP,TEST POINT,0,0
+TP420:,    Pin:1, Signal:L2_N_2, Orig_Signal:L2/N-2, NotProbed,TP,TEST POINT,0,0
+TP421:,    Pin:1, Signal:NetC403_1, Orig_Signal:NetC403_1, NotProbed,TP,TEST POINT,0,0
+TP422:,    Pin:1, Signal:NetD410_K, Orig_Signal:NetD410_K, NotProbed,TP,TEST POINT,0,0
+TP423:,    Pin:1, Signal:NetQ403_G, Orig_Signal:NetQ403_G, Probed,TP,TEST POINT,0,0
+TP424:,    Pin:1, Signal:RELAY_CTRL_1, Orig_Signal:RELAY_CTRL_1, Probed,TP,TEST POINT,0,0
+TP501:,    Pin:1, Signal:NetC501_2, Orig_Signal:NetC501_2, NotProbed,TP,TEST POINT,0,0
+TP502:,    Pin:1, Signal:NetFB501_2, Orig_Signal:NetFB501_2, Probed,TP,TEST POINT,0,0
+TP503:,    Pin:1, Signal:NetR502_2, Orig_Signal:NetR502_2, Probed,TP,TEST POINT,0,0
+TP504:,    Pin:1, Signal:NetR502_1, Orig_Signal:NetR502_1, Probed,TP,TEST POINT,0,0
+TP505:,    Pin:1, Signal:NetR503_1, Orig_Signal:NetR503_1, Probed,TP,TEST POINT,0,0
+TP506:,    Pin:1, Signal:NetR504_1, Orig_Signal:NetR504_1, Probed,TP,TEST POINT,0,0
+TP507:,    Pin:1, Signal:NetC502_2, Orig_Signal:NetC502_2, NotProbed,TP,TEST POINT,0,0
+TP508:,    Pin:1, Signal:NetC502_1, Orig_Signal:NetC502_1, NotProbed,TP,TEST POINT,0,0
+TP509:,    Pin:1, Signal:NetFB501_1, Orig_Signal:NetFB501_1, Probed,TP,TEST POINT,0,0
+TP510:,    Pin:1, Signal:NetC503_1, Orig_Signal:NetC503_1, NotProbed,TP,TEST POINT,0,0
+TP511:,    Pin:1, Signal:NetFB502_1, Orig_Signal:NetFB502_1, Probed,TP,TEST POINT,0,0
+TP512:,    Pin:1, Signal:NetC503_2, Orig_Signal:NetC503_2, NotProbed,TP,TEST POINT,0,0
+TP513:,    Pin:1, Signal:NetFB502_2, Orig_Signal:NetFB502_2, Probed,TP,TEST POINT,0,0
+TP514:,    Pin:1, Signal:NetC504_2, Orig_Signal:NetC504_2, NotProbed,TP,TEST POINT,0,0
+TP515:,    Pin:1, Signal:NetR517_2, Orig_Signal:NetR517_2, NotProbed,TP,TEST POINT,0,0
+TP516:,    Pin:1, Signal:NetR517_1, Orig_Signal:NetR517_1, NotProbed,TP,TEST POINT,0,0
+TP517:,    Pin:1, Signal:NetR518_2, Orig_Signal:NetR518_2, NotProbed,TP,TEST POINT,0,0
+TP518:,    Pin:1, Signal:VOLT_MEAS, Orig_Signal:VOLT_MEAS, Probed,TP,TEST POINT,0,0
+TP519:,    Pin:1, Signal:NetQ501_D, Orig_Signal:NetQ501_D, Probed,TP,TEST POINT,0,0
+TP520:,    Pin:1, Signal:NetD504_K, Orig_Signal:NetD504_K, NotProbed,TP,TEST POINT,0,0
+TP521:,    Pin:1, Signal:NetD507_K, Orig_Signal:NetD507_K, NotProbed,TP,TEST POINT,0,0
+TP522:,    Pin:1, Signal:NetD506_K, Orig_Signal:NetD506_K, NotProbed,TP,TEST POINT,0,0
+TP523:,    Pin:1, Signal:NetC506_2, Orig_Signal:NetC506_2, NotProbed,TP,TEST POINT,0,0
+TP524:,    Pin:1, Signal:L1_CS, Orig_Signal:L1_CS, Probed,TP,TEST POINT,0,0
+TP525:,    Pin:1, Signal:NetC518_1, Orig_Signal:NetC518_1, NotProbed,TP,TEST POINT,0,0
+TP526:,    Pin:1, Signal:NetQ502_D, Orig_Signal:NetQ502_D, Probed,TP,TEST POINT,0,0
+TP527:,    Pin:1, Signal:5V, Orig_Signal:5V, Probed,TP,TEST POINT,0,0
+TP528:,    Pin:1, Signal:NetQ503_D, Orig_Signal:NetQ503_D, Probed,TP,TEST POINT,0,0
+TP529:,    Pin:1, Signal:NetD508_K, Orig_Signal:NetD508_K, NotProbed,TP,TEST POINT,0,0
+TP530:,    Pin:1, Signal:NetD511_K, Orig_Signal:NetD511_K, Probed,TP,TEST POINT,0,0
+TP531:,    Pin:1, Signal:NetQ503_G, Orig_Signal:NetQ503_G, Probed,TP,TEST POINT,0,0
+TP532:,    Pin:1, Signal:ID1, Orig_Signal:ID1, Probed,TP,TEST POINT,0,0
+TP533:,    Pin:1, Signal:ID2, Orig_Signal:ID2, Probed,TP,TEST POINT,0,0
+TP534:,    Pin:1, Signal:TEMP1, Orig_Signal:TEMP1, Probed,TP,TEST POINT,0,0
+TP535:,    Pin:1, Signal:NetD510_K, Orig_Signal:NetD510_K, NotProbed,TP,TEST POINT,0,0
+TP536:,    Pin:1, Signal:NetC511_2, Orig_Signal:NetC511_2, NotProbed,TP,TEST POINT,0,0
+TP537:,    Pin:1, Signal:NetQ504_D, Orig_Signal:NetQ504_D, Probed,TP,TEST POINT,0,0
+TP538:,    Pin:1, Signal:NetQ504_G, Orig_Signal:NetQ504_G, Probed,TP,TEST POINT,0,0
+TP539:,    Pin:1, Signal:NetC518_2, Orig_Signal:NetC518_2, NotProbed,TP,TEST POINT,0,0
+TP540:,    Pin:1, Signal:NetC520_1, Orig_Signal:NetC520_1, Probed,TP,TEST POINT,0,0
+TP541:,    Pin:1, Signal:NetC515_2, Orig_Signal:NetC515_2, NotProbed,TP,TEST POINT,0,0
+TP601:,    Pin:1, Signal:NetD601_A, Orig_Signal:NetD601_A, Probed,TP,TEST POINT,0,0
+TP602:,    Pin:1, Signal:NetC603_2, Orig_Signal:NetC603_2, NotProbed,TP,TEST POINT,0,0
+TP604:,    Pin:1, Signal:NetC602_2, Orig_Signal:NetC602_2, Probed,TP,TEST POINT,0,0
+TP605:,    Pin:1, Signal:NetC601_2, Orig_Signal:NetC601_2, Probed,TP,TEST POINT,0,0
+TP606:,    Pin:1, Signal:P12V, Orig_Signal:+12V, Probed,TP,TEST POINT,0,0
+TP607:,    Pin:1, Signal:P12V, Orig_Signal:+12V, Probed,TP,TEST POINT,0,0
+TP608:,    Pin:1, Signal:NetD601_K, Orig_Signal:NetD601_K, NotProbed,TP,TEST POINT,0,0
+TP609:,    Pin:1, Signal:NetC603_1, Orig_Signal:NetC603_1, Probed,TP,TEST POINT,0,0
+TP611:,    Pin:1, Signal:NetC608_1, Orig_Signal:NetC608_1, Probed,TP,TEST POINT,0,0
+TP612:,    Pin:1, Signal:NetC602_1, Orig_Signal:NetC602_1, Probed,TP,TEST POINT,0,0
+TP613:,    Pin:1, Signal:12V_A, Orig_Signal:12V_A, NotProbed,TP,TEST POINT,0,0
+TP614:,    Pin:1, Signal:5V, Orig_Signal:5V, Probed,TP,TEST POINT,0,0
+TP615:,    Pin:1, Signal:1_8V, Orig_Signal:1.8V, Probed,TP,TEST POINT,0,0
+TP616:,    Pin:1, Signal:N12V_A, Orig_Signal:-12V_A, Probed,TP,TEST POINT,0,0
+U201:,    Pin:11, Signal:L2_N_2, Orig_Signal:L2/N-2, NotProbed,U,IC,0,0
+U201:,    Pin:4, Signal:NetR203_2, Orig_Signal:NetR203_2, Probed,U,IC,0,0
+U201:,    Pin:3, Signal:NetTP213_1, Orig_Signal:NetTP213_1, Probed,U,IC,0,0
+U201:,    Pin:6, Signal:NetR202_1, Orig_Signal:NetR202_1, Probed,U,IC,0,0
+U201:,    Pin:15, Signal:L1_3, Orig_Signal:L1-3, Probed,U,IC,0,0
+U201:,    Pin:2, Signal:UNCONNECTED_2, Orig_Signal:UNCONNECTED_2, NotProbed,U,IC,0,0
+U201:,    Pin:7, Signal:GND, Orig_Signal:GND, Probed,U,IC,0,0
+U201:,    Pin:8, Signal:NetC201_1, Orig_Signal:NetC201_1, Probed,U,IC,0,0
+U201:,    Pin:9, Signal:NetTP223_1, Orig_Signal:NetTP223_1, Probed,U,IC,0,0
+U201:,    Pin:10, Signal:UNCONNECTED_3, Orig_Signal:UNCONNECTED_3, Probed,U,IC,0,0
+U201:,    Pin:1, Signal:UNCONNECTED_1, Orig_Signal:UNCONNECTED_1, NotProbed,U,IC,0,0
+U201:,    Pin:5, Signal:NetTP216_1, Orig_Signal:NetTP216_1, Probed,U,IC,0,0
+U201:,    Pin:12, Signal:L2_N_3, Orig_Signal:L2/N-3, NotProbed,U,IC,0,0
+U201:,    Pin:14, Signal:L2_N_3, Orig_Signal:L2/N-3, NotProbed,U,IC,0,0
+U201:,    Pin:17, Signal:L1_3, Orig_Signal:L1-3, Probed,U,IC,0,0
+U201:,    Pin:13, Signal:L2_N_2, Orig_Signal:L2/N-2, NotProbed,U,IC,0,0
+U201:,    Pin:18, Signal:L1_4, Orig_Signal:L1-4, NotProbed,U,IC,0,0
+U201:,    Pin:16, Signal:L1_4, Orig_Signal:L1-4, NotProbed,U,IC,0,0
+U202:,    Pin:1, Signal:NetD203_AN, Orig_Signal:NetD203_AN, NotProbed,U,IC,0,0
+U202:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,U,IC,0,0
+U202:,    Pin:3, Signal:NetD204_3, Orig_Signal:NetD204_3, NotProbed,U,IC,0,0
+U202:,    Pin:4, Signal:NetD203_AN, Orig_Signal:NetD203_AN, NotProbed,U,IC,0,0
+U202:,    Pin:5, Signal:3_3V, Orig_Signal:3.3V, Probed,U,IC,0,0
+U301:,    Pin:1, Signal:NetC301_1, Orig_Signal:NetC301_1, NotProbed,U,IC,0,0
+U301:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,U,IC,0,0
+U301:,    Pin:3, Signal:NetC301_1, Orig_Signal:NetC301_1, NotProbed,U,IC,0,0
+U301:,    Pin:4, Signal:UNCONNECTED_76, Orig_Signal:UNCONNECTED_76, NotProbed,U,IC,0,0
+U301:,    Pin:5, Signal:NetC303_2, Orig_Signal:NetC303_2, NotProbed,U,IC,0,0
+U302:,    Pin:1, Signal:NRST, Orig_Signal:NRST, Probed,U,IC,0,0
+U302:,    Pin:4, Signal:WDI, Orig_Signal:WDI, NotProbed,U,IC,0,0
+U302:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,U,IC,0,0
+U302:,    Pin:5, Signal:NetC307_1, Orig_Signal:NetC307_1, NotProbed,U,IC,0,0
+U302:,    Pin:3, Signal:UNCONNECTED_75, Orig_Signal:UNCONNECTED_75, NotProbed,U,IC,0,0
+U303:,    Pin:61, Signal:NetQ502_D, Orig_Signal:NetQ502_D, Probed,U,IC,0,0
+U303:,    Pin:47, Signal:UNCONNECTED_63, Orig_Signal:UNCONNECTED_63, NotProbed,U,IC,0,0
+U303:,    Pin:43, Signal:UNCONNECTED_61, Orig_Signal:UNCONNECTED_61, NotProbed,U,IC,0,0
+U303:,    Pin:42, Signal:UNCONNECTED_60, Orig_Signal:UNCONNECTED_60, NotProbed,U,IC,0,0
+U303:,    Pin:41, Signal:UNCONNECTED_59, Orig_Signal:UNCONNECTED_59, NotProbed,U,IC,0,0
+U303:,    Pin:40, Signal:UNCONNECTED_58, Orig_Signal:UNCONNECTED_58, NotProbed,U,IC,0,0
+U303:,    Pin:39, Signal:UNCONNECTED_57, Orig_Signal:UNCONNECTED_57, NotProbed,U,IC,0,0
+U303:,    Pin:38, Signal:UNCONNECTED_56, Orig_Signal:UNCONNECTED_56, NotProbed,U,IC,0,0
+U303:,    Pin:37, Signal:UNCONNECTED_55, Orig_Signal:UNCONNECTED_55, NotProbed,U,IC,0,0
+U303:,    Pin:36, Signal:NetR201_1, Orig_Signal:NetR201_1, Probed,U,IC,0,0
+U303:,    Pin:35, Signal:UNCONNECTED_54, Orig_Signal:UNCONNECTED_54, NotProbed,U,IC,0,0
+U303:,    Pin:34, Signal:NetR203_1, Orig_Signal:NetR203_1, Probed,U,IC,0,0
+U303:,    Pin:33, Signal:UNCONNECTED_53, Orig_Signal:UNCONNECTED_53, NotProbed,U,IC,0,0
+U303:,    Pin:32, Signal:UNCONNECTED_52, Orig_Signal:UNCONNECTED_52, NotProbed,U,IC,0,0
+U303:,    Pin:31, Signal:UNCONNECTED_51, Orig_Signal:UNCONNECTED_51, NotProbed,U,IC,0,0
+U303:,    Pin:30, Signal:RELAY_CTRL_1, Orig_Signal:RELAY_CTRL_1, Probed,U,IC,0,0
+U303:,    Pin:29, Signal:UNCONNECTED_50, Orig_Signal:UNCONNECTED_50, NotProbed,U,IC,0,0
+U303:,    Pin:44, Signal:UNCONNECTED_62, Orig_Signal:UNCONNECTED_62, NotProbed,U,IC,0,0
+U303:,    Pin:28, Signal:RELAY_CTRL_2, Orig_Signal:RELAY_CTRL_2, NotProbed,U,IC,0,0
+U303:,    Pin:45, Signal:SWDIO, Orig_Signal:SWDIO, NotProbed,U,IC,0,0
+U303:,    Pin:48, Signal:UNCONNECTED_64, Orig_Signal:UNCONNECTED_64, NotProbed,U,IC,0,0
+U303:,    Pin:64, Signal:UNCONNECTED_73, Orig_Signal:UNCONNECTED_73, NotProbed,U,IC,0,0
+U303:,    Pin:63, Signal:NetQ501_D, Orig_Signal:NetQ501_D, Probed,U,IC,0,0
+U303:,    Pin:62, Signal:UNCONNECTED_72, Orig_Signal:UNCONNECTED_72, NotProbed,U,IC,0,0
+U303:,    Pin:60, Signal:UNCONNECTED_71, Orig_Signal:UNCONNECTED_71, NotProbed,U,IC,0,0
+U303:,    Pin:59, Signal:NetQ503_D, Orig_Signal:NetQ503_D, Probed,U,IC,0,0
+U303:,    Pin:58, Signal:UNCONNECTED_70, Orig_Signal:UNCONNECTED_70, NotProbed,U,IC,0,0
+U303:,    Pin:57, Signal:NetQ504_D, Orig_Signal:NetQ504_D, Probed,U,IC,0,0
+U303:,    Pin:56, Signal:UNCONNECTED_69, Orig_Signal:UNCONNECTED_69, NotProbed,U,IC,0,0
+U303:,    Pin:55, Signal:NetR316_1, Orig_Signal:NetR316_1, Probed,U,IC,0,0
+U303:,    Pin:54, Signal:UNCONNECTED_68, Orig_Signal:UNCONNECTED_68, NotProbed,U,IC,0,0
+U303:,    Pin:53, Signal:UNCONNECTED_67, Orig_Signal:UNCONNECTED_67, NotProbed,U,IC,0,0
+U303:,    Pin:52, Signal:UNCONNECTED_66, Orig_Signal:UNCONNECTED_66, NotProbed,U,IC,0,0
+U303:,    Pin:51, Signal:UNCONNECTED_65, Orig_Signal:UNCONNECTED_65, NotProbed,U,IC,0,0
+U303:,    Pin:50, Signal:LED2, Orig_Signal:LED2, NotProbed,U,IC,0,0
+U303:,    Pin:49, Signal:LED1, Orig_Signal:LED1, NotProbed,U,IC,0,0
+U303:,    Pin:46, Signal:SWCLK, Orig_Signal:SWCLK, NotProbed,U,IC,0,0
+U303:,    Pin:26, Signal:NetR318_2, Orig_Signal:NetR318_2, Probed,U,IC,0,0
+U303:,    Pin:27, Signal:UNCONNECTED_49, Orig_Signal:UNCONNECTED_49, NotProbed,U,IC,0,0
+U303:,    Pin:24, Signal:UNCONNECTED_48, Orig_Signal:UNCONNECTED_48, NotProbed,U,IC,0,0
+U303:,    Pin:1, Signal:UNCONNECTED_37, Orig_Signal:UNCONNECTED_37, NotProbed,U,IC,0,0
+U303:,    Pin:2, Signal:UNCONNECTED_38, Orig_Signal:UNCONNECTED_38, NotProbed,U,IC,0,0
+U303:,    Pin:3, Signal:UNCONNECTED_39, Orig_Signal:UNCONNECTED_39, NotProbed,U,IC,0,0
+U303:,    Pin:4, Signal:UNCONNECTED_40, Orig_Signal:UNCONNECTED_40, NotProbed,U,IC,0,0
+U303:,    Pin:25, Signal:NetR317_2, Orig_Signal:NetR317_2, Probed,U,IC,0,0
+U303:,    Pin:6, Signal:3_3V, Orig_Signal:3.3V, Probed,U,IC,0,0
+U303:,    Pin:7, Signal:NetC309_1, Orig_Signal:NetC309_1, NotProbed,U,IC,0,0
+U303:,    Pin:8, Signal:3_3V, Orig_Signal:3.3V, Probed,U,IC,0,0
+U303:,    Pin:9, Signal:GND, Orig_Signal:GND, Probed,U,IC,0,0
+U303:,    Pin:10, Signal:NetC310_1, Orig_Signal:NetC310_1, NotProbed,U,IC,0,0
+U303:,    Pin:11, Signal:NetR325_2, Orig_Signal:NetR325_2, NotProbed,U,IC,0,0
+U303:,    Pin:12, Signal:NRST, Orig_Signal:NRST, Probed,U,IC,0,0
+U303:,    Pin:5, Signal:UNCONNECTED_41, Orig_Signal:UNCONNECTED_41, NotProbed,U,IC,0,0
+U303:,    Pin:14, Signal:UNCONNECTED_43, Orig_Signal:UNCONNECTED_43, NotProbed,U,IC,0,0
+U303:,    Pin:15, Signal:WDI, Orig_Signal:WDI, NotProbed,U,IC,0,0
+U303:,    Pin:16, Signal:UNCONNECTED_44, Orig_Signal:UNCONNECTED_44, NotProbed,U,IC,0,0
+U303:,    Pin:17, Signal:VOLT_MEAS, Orig_Signal:VOLT_MEAS, Probed,U,IC,0,0
+U303:,    Pin:18, Signal:VOLT_MEAS, Orig_Signal:VOLT_MEAS, Probed,U,IC,0,0
+U303:,    Pin:19, Signal:DEBUG_TX, Orig_Signal:DEBUG_TX, Probed,U,IC,0,0
+U303:,    Pin:20, Signal:DEBUG_RX, Orig_Signal:DEBUG_RX, Probed,U,IC,0,0
+U303:,    Pin:21, Signal:UNCONNECTED_45, Orig_Signal:UNCONNECTED_45, NotProbed,U,IC,0,0
+U303:,    Pin:22, Signal:UNCONNECTED_46, Orig_Signal:UNCONNECTED_46, NotProbed,U,IC,0,0
+U303:,    Pin:23, Signal:UNCONNECTED_47, Orig_Signal:UNCONNECTED_47, NotProbed,U,IC,0,0
+U303:,    Pin:13, Signal:UNCONNECTED_42, Orig_Signal:UNCONNECTED_42, NotProbed,U,IC,0,0
+U401:,    Pin:3, Signal:GND, Orig_Signal:GND, Probed,U,IC,0,0
+U401:,    Pin:2, Signal:NetC404_1, Orig_Signal:NetC404_1, NotProbed,U,IC,0,0
+U401:,    Pin:1, Signal:NetC401_1, Orig_Signal:NetC401_1, NotProbed,U,IC,0,0
+U501:,    Pin:7, Signal:NetR504_1, Orig_Signal:NetR504_1, Probed,U,IC,0,0
+U501:,    Pin:6, Signal:NetR504_1, Orig_Signal:NetR504_1, Probed,U,IC,0,0
+U501:,    Pin:5, Signal:1_8V, Orig_Signal:1.8V, Probed,U,IC,0,0
+U501:,    Pin:4, Signal:N12V_A, Orig_Signal:-12V_A, Probed,U,IC,0,0
+U501:,    Pin:3, Signal:NetC501_2, Orig_Signal:NetC501_2, NotProbed,U,IC,0,0
+U501:,    Pin:2, Signal:NetR502_2, Orig_Signal:NetR502_2, Probed,U,IC,0,0
+U501:,    Pin:1, Signal:NetR502_2, Orig_Signal:NetR502_2, Probed,U,IC,0,0
+U501:,    Pin:8, Signal:12V_A, Orig_Signal:12V_A, NotProbed,U,IC,0,0
+U502:,    Pin:2, Signal:NetR517_1, Orig_Signal:NetR517_1, NotProbed,U,IC,0,0
+U502:,    Pin:5, Signal:NetC504_2, Orig_Signal:NetC504_2, NotProbed,U,IC,0,0
+U502:,    Pin:8, Signal:12V_A, Orig_Signal:12V_A, NotProbed,U,IC,0,0
+U502:,    Pin:4, Signal:N12V_A, Orig_Signal:-12V_A, Probed,U,IC,0,0
+U502:,    Pin:3, Signal:NetR502_1, Orig_Signal:NetR502_1, Probed,U,IC,0,0
+U502:,    Pin:1, Signal:VOLT_MEAS, Orig_Signal:VOLT_MEAS, Probed,U,IC,0,0
+U502:,    Pin:7, Signal:NetR517_2, Orig_Signal:NetR517_2, NotProbed,U,IC,0,0
+U502:,    Pin:6, Signal:NetR517_2, Orig_Signal:NetR517_2, NotProbed,U,IC,0,0
+U503:,    Pin:4, Signal:L1_3, Orig_Signal:L1-3, Probed,U,IC,0,0
+U503:,    Pin:3, Signal:NetC520_1, Orig_Signal:NetC520_1, Probed,U,IC,0,0
+U503:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,U,IC,0,0
+U503:,    Pin:1, Signal:5V, Orig_Signal:5V, Probed,U,IC,0,0
+U503:,    Pin:5, Signal:L1_2, Orig_Signal:L1-2, Probed,U,IC,0,0
+U504:,    Pin:3, Signal:GND, Orig_Signal:GND, Probed,U,IC,0,0
+U504:,    Pin:2, Signal:TEMP1, Orig_Signal:TEMP1, Probed,U,IC,0,0
+U504:,    Pin:1, Signal:5V, Orig_Signal:5V, Probed,U,IC,0,0
+U505:,    Pin:5, Signal:UNCONNECTED_32, Orig_Signal:UNCONNECTED_32, NotProbed,U,IC,0,0
+U505:,    Pin:4, Signal:GND, Orig_Signal:GND, Probed,U,IC,0,0
+U505:,    Pin:8, Signal:UNCONNECTED_33, Orig_Signal:UNCONNECTED_33, NotProbed,U,IC,0,0
+U505:,    Pin:1, Signal:UNCONNECTED_31, Orig_Signal:UNCONNECTED_31, NotProbed,U,IC,0,0
+U505:,    Pin:2, Signal:NetC518_2, Orig_Signal:NetC518_2, NotProbed,U,IC,0,0
+U505:,    Pin:7, Signal:3_3V, Orig_Signal:3.3V, Probed,U,IC,0,0
+U505:,    Pin:6, Signal:NetC518_1, Orig_Signal:NetC518_1, NotProbed,U,IC,0,0
+U505:,    Pin:3, Signal:NetC515_2, Orig_Signal:NetC515_2, NotProbed,U,IC,0,0
+U601:,    Pin:1, Signal:NetC601_2, Orig_Signal:NetC601_2, Probed,U,IC,0,0
+U601:,    Pin:2, Signal:NetC608_1, Orig_Signal:NetC608_1, Probed,U,IC,0,0
+U601:,    Pin:3, Signal:NetD601_A, Orig_Signal:NetD601_A, Probed,U,IC,0,0
+U601:,    Pin:4, Signal:NetC603_1, Orig_Signal:NetC603_1, Probed,U,IC,0,0
+U602:,    Pin:2, Signal:P12V, Orig_Signal:+12V, Probed,U,IC,0,0
+U602:,    Pin:3, Signal:NetC603_1, Orig_Signal:NetC603_1, Probed,U,IC,0,0
+U602:,    Pin:4, Signal:GND, Orig_Signal:GND, Probed,U,IC,0,0
+U602:,    Pin:5, Signal:UNCONNECTED_34, Orig_Signal:UNCONNECTED_34, NotProbed,U,IC,0,0
+U602:,    Pin:1, Signal:NetC603_2, Orig_Signal:NetC603_2, NotProbed,U,IC,0,0
+U602:,    Pin:6, Signal:UNCONNECTED_35, Orig_Signal:UNCONNECTED_35, NotProbed,U,IC,0,0
+U603:,    Pin:1, Signal:5V, Orig_Signal:5V, Probed,U,IC,0,0
+U603:,    Pin:2, Signal:1_8V, Orig_Signal:1.8V, Probed,U,IC,0,0
+U603:,    Pin:3, Signal:GND, Orig_Signal:GND, Probed,U,IC,0,0
+VR601:,    Pin:1, Signal:L1_1, Orig_Signal:L1-1, Probed,VR,0,0,0
+VR601:,    Pin:2, Signal:GND, Orig_Signal:GND, Probed,VR,0,0,0
+VR602:,    Pin:1, Signal:L1_1, Orig_Signal:L1-1, Probed,VR,0,0,0
+VR602:,    Pin:2, Signal:L2_N_1, Orig_Signal:L2/N-1, Probed,VR,0,0,0
+VR603:,    Pin:1, Signal:GND, Orig_Signal:GND, Probed,VR,0,0,0
+VR603:,    Pin:2, Signal:L2_N_1, Orig_Signal:L2/N-1, Probed,VR,0,0,0
+X301:,    Pin:2, Signal:NetC310_1, Orig_Signal:NetC310_1, NotProbed,X,0,0,0
+X301:,    Pin:1, Signal:NetC311_1, Orig_Signal:NetC311_1, NotProbed,X,0,0,0
